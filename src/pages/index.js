@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <h1>Это я в Австрии</h1>
+    <h1>Это я в Австрии!</h1>
     <StaticImage
       src="../images/tyrol.jpeg"
       width={300}
