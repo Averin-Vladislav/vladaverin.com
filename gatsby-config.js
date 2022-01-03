@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Vlad Averin`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Vlad Averin`,
+      summary: `who lives in Prague`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `My starter blog`,
+    siteUrl: `https://vladaverinpersonalsite.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: 'trochu_orechu',
+      telegram: 'averin_vlad',
     },
   },
   plugins: [
