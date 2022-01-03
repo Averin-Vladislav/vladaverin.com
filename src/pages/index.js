@@ -8,7 +8,13 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <h1>Это я в Австрии</h1>
-    <img src="../images/tyrol.jpeg" width="500">
+    <StaticImage
+      src="../images/tyrol.jpeg"
+      width={300}
+      quality={95}
+      formats={["auto", "webp", "avif"]}
+      style={{ marginBottom: `1.45rem` }}
+    />
   </Layout>
 )
 
