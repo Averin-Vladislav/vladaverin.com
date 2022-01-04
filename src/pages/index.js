@@ -28,6 +28,7 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="All posts" />
       <Bio />
       <img src="https://drive.google.com/uc?id=1MnwHmFBWqrqhH_kxLEJFsg2A23pdgRaR"/>
+      <img src="https://www.closetag.com/images/photo3.jpg"/>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
