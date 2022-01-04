@@ -306,6 +306,10 @@ a:focus {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
+.blog-post img {
+  max-width: 630px;
+}
+
 .blog-post header p {
   font-size: var(--fontSize-2);
   font-family: var(--font-heading);
