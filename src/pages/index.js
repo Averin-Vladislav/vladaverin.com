@@ -27,6 +27,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="All posts" />
       <Bio />
+      <img src="https://drive.google.com/uc?id=1MnwHmFBWqrqhH_kxLEJFsg2A23pdgRaR"/>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
