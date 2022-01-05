@@ -115,10 +115,10 @@ const AboutMePage = ({ data, location }) => {
                     Пару раз в год прохожу курс <a href="https://sektaschool.ru/" target="_blank">Sekta</a>.
                 </li>
                 <li>
-                    Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank">Rondo RuUUT AL2 2020</a>.
+                    Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank">Rondo RUUT AL2 2020</a>.
                 </li>
                 <li>
-                    Обожаю наблюдать за армреслингом (залипательный ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank">ARMWRESLING TV</a>)
+                    Залипаю на армреслинг(ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank">ARMWRESLING TV</a>)
                 </li>
                 <li>
                     Люблю посмотреть хайповые бои UFC.
