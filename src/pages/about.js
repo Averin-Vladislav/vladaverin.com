@@ -12,7 +12,7 @@ const AboutMePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-        <Seo title="About me" />
+        <Seo title="About" />
         
         <h1>Обо мне</h1>
         <StaticImage
@@ -25,7 +25,7 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x1F44B; Интро</h2>
             <p>Мне 25 лет. Отучился на программиста в Минске, но всегда был про дизайн, визуал и восприятие.
                 Пока западнее Парижа и восточнее Москвы нигде не бывал. Неплохо шпарю по-английски, учу чешский
-                и кайфую от немецкого.</p>
+                и кайфую от немецкого. Под боком всегда любимая мышка и кот.</p>
         </div>
            
         <div>
