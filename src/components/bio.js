@@ -18,9 +18,6 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
         }
       }
     }
@@ -44,12 +41,10 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://instagram.com/trochu_orechu`} target="_blank">
-            Follow me on Instagram
-          </a> or <a href={`https://t.me/averin_vlad`} target="_blank">
-            Text me on Telegram
+          Меня зовут <strong>{author.name}</strong>. 
+          {` `} Здесь я рассказываю про то, что мне интересно, чтоб было что вспомнить в старости. {` `}
+          <a href="./about">
+            <span>Много обо мне</span>
           </a>
         </p>
       )}

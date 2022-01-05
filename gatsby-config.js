@@ -1,15 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Vlad Averin`,
+    title: `Троху ореху`,
     author: {
-      name: `Vlad Averin`,
-      summary: `who lives in Prague`,
+      name: `Влад Аверин`,
+      summary: `Я живу в Праге, Чехия.`,
     },
     description: `My starter blog`,
     siteUrl: `https://vladaverinpersonalsite.gatsbyjs.io/`,
     social: {
-      instagram: 'trochu_orechu',
-      telegram: 'averin_vlad',
+      instagram: `trochu_orechu`,
+      telegram: `averin_vlad`,
+      portfolio: `https://vladaverin.com/`,
     },
   },
   plugins: [
