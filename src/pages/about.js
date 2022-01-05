@@ -14,10 +14,10 @@ const AboutMePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
         <Seo title="About" />
         
-        <h1>Обо мне</h1>
+        <h1>Много обо мне</h1>
         <StaticImage
             src="../images/about-me.JPG"
-            width="500"
+            width="630"
             alt="Profile picture"
         />
 
