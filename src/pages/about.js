@@ -118,7 +118,7 @@ const AboutMePage = ({ data, location }) => {
                     Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank">Rondo RUUT AL2 2020</a>.
                 </li>
                 <li>
-                    Залипаю на армреслинг(ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank">ARMWRESLING TV</a>)
+                    Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank">ARMWRESLING TV</a>)
                 </li>
                 <li>
                     Люблю посмотреть хайповые бои UFC.
