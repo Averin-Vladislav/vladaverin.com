@@ -37,11 +37,11 @@ const Bio = () => {
         width={50}
         height={50}
         quality={95}
-        alt="Profile picture"
+        alt="Аватар Влада"
       />
       {author?.name && (
         <p>
-          Меня зовут <strong>{author.name}</strong>. 
+          Меня зовут {author.name}. 
           {` `} Здесь я рассказываю про то, что мне интересно, чтоб было что вспомнить в старости. {` `}
           <a href="./about">
             <span>Много обо мне</span>
