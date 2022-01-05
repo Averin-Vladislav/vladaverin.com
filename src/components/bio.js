@@ -29,16 +29,17 @@ const Bio = () => {
 
   return (
     <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Аватар Влада"
-      />
+      <div className="bio-avatar">
+        <StaticImage
+          layout="fixed"
+          formats={["auto", "webp", "avif"]}
+          src="../images/profile-pic.png"
+          width={50}
+          height={50}
+          quality={95}
+          alt="Аватар Влада"
+        />
+      </div>
       {author?.name && (
         <p>
           Меня зовут {author.name}. 

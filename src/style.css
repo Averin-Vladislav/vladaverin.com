@@ -306,10 +306,20 @@ a:focus {
 }
 
 .bio-avatar {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -khtml-border-radius: 50%;
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
+}
+
+.bio-avatar img {
   min-width: 50px;
-  border-radius: 100%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -khtml-border-radius: 50%;
 }
 
 .blog-post header h1 {
