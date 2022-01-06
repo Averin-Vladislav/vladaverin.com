@@ -4,7 +4,6 @@ import {useState, useEffect} from "react"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Config from "../../config.js"
 
 const AboutMePage = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title
@@ -12,7 +11,7 @@ const AboutMePage = ({ data, location }) => {
     const [temperatureInfo, setTempString] = useState();
 
     const getTempString = async () => {
-        const responseJson = await fetch(data.site.siteMetadata.weatherAPI + Config.WEATHER_API_KEY)
+        const responseJson = await fetch(data.site.siteMetadata.weatherAPI)
                                 .then((response) => response.json())
                                 .then((responseJson) => {
                                 return responseJson;
@@ -21,7 +20,8 @@ const AboutMePage = ({ data, location }) => {
                                 console.error(error);
                             });
                     
-        const temperature = Math.round(responseJson.main.temp);
+                            console.log(responseJson);
+        const temperature = Math.round(responseJson.current.temp_c);
 
         switch (true) {
             case (temperature < -5):

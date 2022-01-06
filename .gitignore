@@ -70,6 +70,3 @@ yarn-error.log
 
 # Images in blog post folders
 **/blog-post-images
-
-# Images in blog post folders
-config.js

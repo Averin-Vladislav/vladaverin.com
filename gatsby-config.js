@@ -7,7 +7,7 @@ module.exports = {
     },
     description: `My starter blog`,
     siteUrl: `https://vladaverinpersonalsite.gatsbyjs.io/`,
-    weatherAPI: `https://api.openweathermap.org/data/2.5/weather?q=Prague&units=metric&appid=`,
+    weatherAPI: `https://api.weatherapi.com/v1/current.json?key=5ff19fd9b90844bc941140900220601&q=Prague&aqi=no`,
     social: {
       instagram: `trochu_orechu`,
       telegram: `averin_vlad`,
