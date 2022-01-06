@@ -85,6 +85,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type SiteSiteMetadata {
       author: Author
       siteUrl: String
+      weatherAPI: String
       social: Social
     }
 
@@ -94,7 +95,9 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Social {
-      twitter: String
+      instagram: String
+      telegram: String
+      portfolio: String
     }
 
     type MarkdownRemark implements Node {

@@ -1,14 +1,40 @@
 import * as React from "react"
 import { graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import {useState, useEffect} from "react"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-
 const AboutMePage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const social = data.site.siteMetadata?.social
+    const siteTitle = data.site.siteMetadata.title
+    const social = data.site.siteMetadata?.social
+    const [temperatureInfo, setTempString] = useState();
+
+    const getTempString = async () => {
+        const res = await fetch(data.site.siteMetadata.weatherAPI);
+        const json = await res.json();
+        const temperature = Math.round(json.main.temp);
+
+        switch (true) {
+            case (temperature < -5):
+                setTempString(<span>{temperature}° &#x1F976;</span>);
+                break;
+            case (temperature < 5):
+                setTempString(<span>{temperature}° &#x1F927;</span>);
+                break;
+            case (temperature < 20):
+                setTempString(<span>{temperature}° &#x1F60C;</span>);
+                break;
+            case (temperature < 50):
+                setTempString(<span>{temperature}° &#x1F975;</span>);
+                break;
+            }
+    };
+  
+    useEffect(() => {
+        getTempString();
+    }, []);
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -19,7 +45,7 @@ const AboutMePage = ({ data, location }) => {
             src="../images/about-me.JPG"
             layout="fixed"
             formats={["auto", "webp", "avif"]}
-            width="630"
+            width={630}
             quality={95}
             alt="Портрет Влада"
         />
@@ -34,14 +60,14 @@ const AboutMePage = ({ data, location }) => {
         <div>
             <h2>&#x1F4CD; Локация</h2>
             <p>Детство в Барановичах → отрочество в Минске → юность в Праге. Живу в афигенном
-                районе <a href="https://goo.gl/maps/W2qfNoGQDw1obnfe7" target="_blank">Praha 5 Smíchov</a>: 
-                большие парки, бомжи, шаурмичные с жиром по бороде и шикарный вид из окна.</p>
+                районе <a href="https://goo.gl/maps/W2qfNoGQDw1obnfe7" target="_blank" rel="noreferrer">Praha 5 Smíchov</a>: 
+                большие парки, бомжи, шаурмичные с жиром по бороде и шикарный вид из окна. У нас тут сейчас {temperatureInfo}</p>
         </div>
 
         <div>
             <h2>&#x1F4BB; Работа</h2>
-            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank">PandaDoc</a>.
-                Отвечаю за <a href="https://w.wiki/4e9e" target="_blank">дизайн систему</a> и
+            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>.
+                Отвечаю за <a href="https://w.wiki/4e9e" target="_blank" rel="noreferrer">дизайн систему</a> и
                 помогаю остальным дизайнерам работать эффективно и качественно. В работе ценю порядок, 
                 здравый смысл и адекватных людей.</p>
         </div>
@@ -56,7 +82,7 @@ const AboutMePage = ({ data, location }) => {
                     LEGO
                 </li>
                 <li>
-                    Оружие и всякое тактическое (очень заходит ютуб канал <a href="https://www.youtube.com/c/715TEAM" target="_blank">715 team</a>)
+                    Оружие и всякое тактическое (очень заходит ютуб канал <a href="https://www.youtube.com/c/715TEAM" target="_blank" rel="noreferrer">715 team</a>)
                 </li>
                 <li>
                     Наруто
@@ -86,10 +112,10 @@ const AboutMePage = ({ data, location }) => {
                     Under Armour (любимый спортивный бренд)
                 </li>
                 <li>
-                    Недавно начал пробовать себя на барабанах (ютуб канал ударника с приколом <a href="https://www.youtube.com/c/ZackGrooves" target="_blank">ZackGrooves</a>)
+                    Недавно начал пробовать себя на барабанах (ютуб канал ударника с приколом <a href="https://www.youtube.com/c/ZackGrooves" target="_blank" rel="noreferrer">ZackGrooves</a>)
                 </li>
                 <li>
-                    Порядок на грани с <a href="https://w.wiki/4e5r" target="_blank">ОКР</a> и списки, списки, списки
+                    Порядок на грани с <a href="https://w.wiki/4e5r" target="_blank" rel="noreferrer">ОКР</a> и списки, списки, списки
                 </li>
             </ul>
         </div>
@@ -119,13 +145,13 @@ const AboutMePage = ({ data, location }) => {
                     Когда-то на футбольчике прокидывал в очко только так.
                 </li>
                 <li>
-                    Время от времени прохожу курсы в <a href="https://sektaschool.ru/" target="_blank">Sekta</a>.
+                    Время от времени прохожу курсы в <a href="https://sektaschool.ru/" target="_blank" rel="noreferrer">Sekta</a>.
                 </li>
                 <li>
-                    Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank">Rondo RUUT AL2 2020</a>.
+                    Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank" rel="noreferrer">Rondo RUUT AL2 2020</a>.
                 </li>
                 <li>
-                    Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank">ARMWRESLING TV</a>).
+                    Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank" rel="noreferrer">ARMWRESLING TV</a>).
                 </li>
                 <li>
                     Люблю посмотреть хайповые бои UFC.
@@ -137,17 +163,17 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x1F517; Ссылки</h2>
             <ul>
                 <li>
-                    <a href={`https://instagram.com/${social?.instagram || ``}`} target="_blank">
+                    <a href={`https://instagram.com/${social?.instagram || ``}`} target="_blank" rel="noreferrer">
                         Инстаграм
                     </a>
                 </li>
                 <li>
-                    <a href={`https://t.me/${social?.telegram || ``}`} target="_blank">
+                    <a href={`https://t.me/${social?.telegram || ``}`} target="_blank" rel="noreferrer">
                         Телеграм
                     </a>
                 </li>
                 <li>
-                    <a href={social.portfolio} target="_blank">
+                    <a href={social.portfolio} target="_blank" rel="noreferrer">
                         Портфолио
                     </a>
                 </li>
@@ -167,6 +193,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        weatherAPI
         social {
             instagram
             telegram
