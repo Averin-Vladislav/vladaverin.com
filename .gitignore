@@ -68,5 +68,8 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-# Yarn Integrity file
+# Images in blog post folders
 **/blog-post-images
+
+# Images in blog post folders
+config.js

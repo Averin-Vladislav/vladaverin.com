@@ -4,6 +4,7 @@ import {useState, useEffect} from "react"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Config from "../../config.js"
 
 const AboutMePage = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title
@@ -11,7 +12,7 @@ const AboutMePage = ({ data, location }) => {
     const [temperatureInfo, setTempString] = useState();
 
     const getTempString = async () => {
-        const responseJson = await fetch(data.site.siteMetadata.weatherAPI)
+        const responseJson = await fetch(data.site.siteMetadata.weatherAPI + Config.WEATHER_API_KEY)
                                 .then((response) => response.json())
                                 .then((responseJson) => {
                                 return responseJson;
