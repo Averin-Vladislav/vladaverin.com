@@ -25,19 +25,20 @@ const AboutMePage = ({ data, location }) => {
 
         switch (true) {
             case (temperature < -5):
-                setTempString(<span>{temperature}° &#x1F976;</span>);
+                setTempString(<span>У нас тут сейчас {temperature}° &#x1F976;</span>);
                 break;
             case (temperature < 5):
-                setTempString(<span>{temperature}° &#x1F927;</span>);
+                setTempString(<span>У нас тут сейчас {temperature}° &#x1F927;</span>);
                 break;
             case (temperature < 20):
-                setTempString(<span>{temperature}° &#x1F60C;</span>);
+                setTempString(<span>У нас тут сейчас {temperature}° &#x1F60C;</span>);
                 break;
             case (temperature < 50):
-                setTempString(<span>{temperature}° &#x1F975;</span>);
+                setTempString(<span>У нас тут сейчас {temperature}° &#x1F975;</span>);
                 break;
             default:
-                setTempString(<span>{temperature}° &#x1F60C;</span>);
+                setTempString("");
+                break;
             }
     };
   
@@ -63,7 +64,7 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x1F4CD; Локация</h2>
             <p>Детство в Барановичах → отрочество в Минске → юность в Праге. Живу в афигенном
                 районе <a href="https://goo.gl/maps/W2qfNoGQDw1obnfe7" target="_blank" rel="noreferrer">Praha 5 Smíchov</a>: 
-                большие парки, бомжи, шаурмичные с жиром по бороде и шикарный вид из окна. У нас тут сейчас {temperatureInfo}</p>
+                большие парки, бомжи, шаурмичные с жиром по бороде и шикарный вид из окна. {temperatureInfo}</p>
         </div>
 
         <div>
@@ -108,13 +109,13 @@ const AboutMePage = ({ data, location }) => {
                     Рисуем с девушкой картины
                 </li>
                 <li>
-                    BMW (сам пилот 425d F36 2016)
+                    BMW (пилот 425d F36 2016)
                 </li>
                 <li>
                     Under Armour (любимый спортивный бренд)
                 </li>
                 <li>
-                    Недавно начал пробовать себя на барабанах (ютуб канал ударника с приколом <a href="https://www.youtube.com/c/ZackGrooves" target="_blank" rel="noreferrer">ZackGrooves</a>)
+                    Недавно начал пробовать себя на барабанах (ютуб канал с приколом <a href="https://www.youtube.com/c/ZackGrooves" target="_blank" rel="noreferrer">ZackGrooves</a>)
                 </li>
                 <li>
                     Порядок на грани с <a href="https://w.wiki/4e5r" target="_blank" rel="noreferrer">ОКР</a> и списки, списки, списки
