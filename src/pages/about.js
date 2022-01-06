@@ -29,12 +29,14 @@ const AboutMePage = ({ data, location }) => {
             case (temperature < 50):
                 setTempString(<span>{temperature}° &#x1F975;</span>);
                 break;
+            default:
+                setTempString(<span>{temperature}° &#x1F60C;</span>);
             }
     };
   
     useEffect(() => {
         getTempString();
-    }, []);
+    });
 
   return (
     <Layout location={location} title={siteTitle}>
