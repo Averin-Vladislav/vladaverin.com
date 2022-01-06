@@ -1,6 +1,5 @@
 import * as React from "react"
 import { graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 import {useState, useEffect} from "react"
 
 import Layout from "../components/layout"
@@ -12,9 +11,16 @@ const AboutMePage = ({ data, location }) => {
     const [temperatureInfo, setTempString] = useState();
 
     const getTempString = async () => {
-        const res = await fetch(data.site.siteMetadata.weatherAPI);
-        const json = await res.json();
-        const temperature = Math.round(json.main.temp);
+        const responseJson = await fetch(data.site.siteMetadata.weatherAPI)
+                                .then((response) => response.json())
+                                .then((responseJson) => {
+                                return responseJson;
+                            })
+                            .catch((error) => {
+                                console.error(error);
+                            });
+                    
+        const temperature = Math.round(responseJson.main.temp);
 
         switch (true) {
             case (temperature < -5):
@@ -43,14 +49,7 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="About" />
         
         <h1>Много обо мне</h1>
-        <StaticImage
-            src="../images/about-me.JPG"
-            layout="fixed"
-            formats={["auto", "webp", "avif"]}
-            width={630}
-            quality={95}
-            alt="Портрет Влада"
-        />
+        <img className="about-me-img" src="https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0" alt="Фото Влада на фоне гор"/>
 
         <div>
             <h2>&#x1F44B; Интро</h2>
