@@ -50,7 +50,8 @@ const AboutMePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
         <Seo title="About" />
         
-        <h1>Много обо мне</h1>
+        <h1 className="about-me-heading">Много обо мне</h1>
+        <span className="about-me-update">Обновлено 06.01.2022</span>
         <img className="about-me-img" src="https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0" alt="Фото Влада на фоне гор"/>
 
         <div>
@@ -182,9 +183,6 @@ const AboutMePage = ({ data, location }) => {
                 </li>
             </ul>
         </div>
-        <footer>
-            <i>Обновлено 05.01.2022</i>
-        </footer>
     </Layout>
   )
 }

@@ -322,6 +322,16 @@ a:focus {
   -khtml-border-radius: 50%;
 }
 
+.about-me-heading {
+  margin-bottom: var(--spacing-1);  
+}
+
+.about-me-update {
+  font-style: italic;
+  display: block;
+  margin-bottom: var(--spacing-6);
+}
+
 .about-me img, .about-me-img {
   position: relative;
   display: block;
