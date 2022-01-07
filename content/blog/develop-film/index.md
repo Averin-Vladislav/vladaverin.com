@@ -2,6 +2,7 @@
 title: Проявил пленку
 date: "2022-01-04"
 description: "Фотографии из поездки в Австрию и Италию."
+imageUrl: "https://dl.dropboxusercontent.com/s/c7zew5axk5o2gfw/Optimized-village%20vibe%20raw-min.jpeg?dl=0"
 ---
 
 Фотографии поездки в Австрию и Италию.

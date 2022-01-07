@@ -291,6 +291,17 @@ a:focus {
   margin-bottom: var(--spacing-4);
 }
 
+.post-list-item img {
+  position: relative;
+  display: inline;
+  /* margin-left: auto;
+  margin-right: auto; */
+  width: 100%;
+  max-width: 630px;
+  transition: opacity 0.5s ease 0.5s;
+  border-radius: 10px;
+}
+
 .link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
