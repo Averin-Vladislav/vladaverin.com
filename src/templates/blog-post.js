@@ -36,6 +36,9 @@ const BlogPostTemplate = ({ data, location }) => {
               Телеграм
             </a>.
           </p>
+          <Link className="header-link-home" to="/">
+            ← назад к орешкам &#x1F330;
+          </Link>
         </footer>
       </article>
       <nav className="blog-post-nav">
