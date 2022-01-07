@@ -52,7 +52,7 @@ const AboutMePage = ({ data, location }) => {
         
         <h1 className="about-me-heading">Много обо мне</h1>
         <span className="about-me-update">Обновлено 06.01.2022</span>
-        <img className="about-me-img" src="https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0" alt="Фото Влада на фоне гор"/>
+        <img className="about-me-img" src="https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0" alt="Фото меня на фоне летних гор" title="Фото меня на фоне летних гор"/>
 
         <div>
             <h2>&#x1F44B; Интро</h2>
