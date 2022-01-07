@@ -48,7 +48,7 @@ const AboutMePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-        <Seo title="About me" />
+        <Seo title="About" />
         
         <h1 className="about-me-heading">Много обо мне</h1>
         <span className="about-me-update">Обновлено 06.01.2022</span>
