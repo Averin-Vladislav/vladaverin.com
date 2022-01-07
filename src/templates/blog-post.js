@@ -7,7 +7,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const social = data.site.siteMetadata?.social
-  const { previous, next } = data
+  // const { previous, next } = data
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -36,12 +36,12 @@ const BlogPostTemplate = ({ data, location }) => {
               Телеграм
             </a>.
           </p>
-          <Link className="header-link-home" to="/">
-            ← назад к орешкам &#x1F330;
+          <Link className="link-home" to="/">
+            ← на главную &#x1F330;
           </Link>
         </footer>
       </article>
-      <nav className="blog-post-nav">
+      {/* <nav className="blog-post-nav">
         <ul
           style={{
             display: `flex`,
@@ -66,7 +66,7 @@ const BlogPostTemplate = ({ data, location }) => {
             )}
           </li>
         </ul>
-      </nav>
+      </nav> */}
     </Layout>
   )
 }

@@ -14,8 +14,8 @@ const Layout = ({ location, title, children }) => {
     )
   } else {
     header = (
-      <Link className="header-link-home" to="/">
-        ← назад к орешкам &#x1F330;
+      <Link className="link-home" to="/">
+        ← на главную &#x1F330;
       </Link>
     )
   }

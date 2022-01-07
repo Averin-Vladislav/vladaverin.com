@@ -149,7 +149,7 @@ const AboutMePage = ({ data, location }) => {
                     Когда-то на футбольчике прокидывал в очко только так.
                 </li>
                 <li>
-                    Время от времени прохожу курсы в <a href="https://sektaschool.ru/" target="_blank" rel="noreferrer">Sekta</a>.
+                    Время от времени прохожу курс <a href="https://sektaschool.ru/" target="_blank" rel="noreferrer">Sekta</a>.
                 </li>
                 <li>
                     Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank" rel="noreferrer">Rondo RUUT AL2 2020</a>.

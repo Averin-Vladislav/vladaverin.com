@@ -55,6 +55,7 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #A42601;
+  --color-primary-light: #db6946;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -100,6 +101,7 @@ hr {
   background: var(--color-accent);
   height: 1px;
   border: 0;
+  margin-bottom: var(--spacing-6);
 }
 
 /* Heading */
@@ -169,7 +171,7 @@ h6 > a {
 /* Prose */
 
 p {
-  line-height: var(--lineHeight-relaxed);
+  line-height: var(--lineHeight-normal);
   --baseline-multiplier: 0.179;
   --x-height-multiplier: 0.35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
@@ -289,11 +291,15 @@ a:focus {
   margin-bottom: var(--spacing-4);
 }
 
-.header-link-home {
+.link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+}
+
+.link-home:hover {
+  color: var(--color-primary-light);
 }
 
 .bio {
@@ -312,6 +318,8 @@ a:focus {
   -khtml-border-radius: 50%;
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
+  width: 50px;
+  height: 50px;
 }
 
 .bio-avatar img {
@@ -343,6 +351,10 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+.blog-post-link:hover {
+  color: var(--color-primary-light);
+}
+
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
@@ -363,13 +375,9 @@ a:focus {
   font-family: var(--font-heading);
 }
 
-.blog-post-nav ul {
+/* .blog-post-nav ul {
   margin: var(--spacing-0);
-}
-
-.gatsby-highlight {
-  margin-bottom: var(--spacing-8);
-}
+} */
 
 /* Media queries */
 
