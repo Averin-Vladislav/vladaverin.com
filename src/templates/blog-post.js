@@ -6,6 +6,7 @@ import Seo from "../components/seo"
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
+  const social = data.site.siteMetadata?.social
   const { previous, next } = data
 
   return (
@@ -27,7 +28,15 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <hr />
+        <footer>
+          <hr />
+          <p>
+            Это конец истории. Если хочешь что-то спросить или заметил ошибку – напиши, пожалуйста, мне в{` `}
+            <a href={`https://t.me/${social?.telegram || ``}`} target="_blank" rel="noreferrer">
+              Телеграм
+            </a>.
+          </p>
+        </footer>
       </article>
       <nav className="blog-post-nav">
         <ul
@@ -70,6 +79,9 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        social {
+          telegram
+        }
       }
     }
     markdownRemark(id: { eq: $id }) {
