@@ -375,9 +375,12 @@ a:focus {
   font-family: var(--font-heading);
 }
 
-/* .blog-post-nav ul {
-  margin: var(--spacing-0);
-} */
+.not-found-pic {
+  position: relative;
+  display: block;
+  margin: 10% auto 0 auto;
+  width: 60%;
+}
 
 /* Media queries */
 
