@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import NotFoundPic from "../images/404-pic.png"
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -10,8 +11,9 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="404: Not Found" />
-      <h1>404: Not Found</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <h1>Куда-то не туда ты пришел</h1>
+      <p>Ничего страшного, я тоже сворачивал не на ту дорожку...</p>
+      <img className="not-found-pic" src={NotFoundPic} alt="Я с сигаретой во рту и в молодости" title="Я с сигаретой во рту и в молодости"/>
     </Layout>
   )
 }
