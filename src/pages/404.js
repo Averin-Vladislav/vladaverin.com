@@ -11,8 +11,8 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="404: Not Found" />
-      <h1>Куда-то не туда ты пришел</h1>
-      <p>Ничего страшного, я тоже сворачивал не на ту дорожку...</p>
+      <h1>404: такой страницы нет</h1>
+      <p>Куда-то не туда ты пришел. Ничего, я тоже сворачивал не на ту дорожку.</p>
       <img className="not-found-pic" src={NotFoundPic} alt="Я с сигаретой во рту и в молодости" title="Я с сигаретой во рту и в молодости"/>
     </Layout>
   )
