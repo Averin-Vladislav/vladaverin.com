@@ -5,15 +5,19 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
 ---
 
 ## Пиво и еда
-Гоняли мы к своим друзьям в Мюнхен. Первый, с кем меня там познакомили, был "зеленый дед" (это кодовое название пива [Augustiner Helles](https://www.beermerchants.com/augustiner-helles)). В какой-то момент в своей душе я на мнговение предал чешское пиво навсегда. Но все же и немецкое и чешское вкусное по-своему и сильно отличается друг от друга. Пьют зеленого деда здесь по дефолту всегда и на всех увесилительных мероприятиях. И вот такими ящиками затаривают себе домой под сосики.
+Гоняли мы к своим друзьям в Мюнхен. Первый, с кем меня там познакомили, был "зеленый дед" (это кодовое название пива [Augustiner Helles](https://www.beermerchants.com/augustiner-helles)). В какой-то момент в своей душе я на мнговение предал чешское пиво навсегда. Но все же и немецкое и чешское вкусное по-своему и сильно отличаются друг от друга. Пьют зеленого деда здесь по дефолту всегда и на всех увесилительных мероприятиях. И вот такими ящиками затаривают себе домой.
 
 <a href="https://dl.dropboxusercontent.com/s/sk9uwnq0zaxz5gp/beer.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/gtohw74x24xrycx/beer-imresizer.jpeg?dl=0" alt="Большие объемы немецких напитков в ящиках на кухне" title="Большие объемы немецких напитков в ящиках на кухне"/>
 </a>
 
+Сосиски, конечно, топ. В остальном чешская кухня мне заходит больше.
+
 <a href="https://dl.dropboxusercontent.com/s/jfiaih10khie4wg/german%20food.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/rr9wsv620lgg8fn/german%20food-imresizer.jpeg?dl=0" alt="Брецель, сосиски с квашенной капустой, бульон и кофе на столе" title="Брецель, сосиски с квашенной капустой, бульон и кофе на столе"/>
 </a>
+
+Ядерный удар по бочкам – это [кайзершмарн](https://en.wikipedia.org/wiki/Kaiserschmarrn). Вообще это австрийская традиционная сладость, но здесь тоже ее изи можно заказать. По сути, это рваные блины, посыпанные сахарной пудрой и залитые всякими сладкими соусами. Вот нам подали с яблочным пюре.
 
 <a href="https://dl.dropboxusercontent.com/s/o0pfyqhhpfaf0x9/german%20sweets.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/0dmmxppqloes51l/german%20sweets-imresizer.jpeg?dl=0" alt="Кайзершмарн на столе" title="Кайзершмарн на столе"/>
@@ -24,7 +28,7 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
     <img src="https://dl.dropboxusercontent.com/s/4b9ychpoircgd5w/bmw%204-imresizer.jpeg?dl=0" alt="Перед спортивной BMW давних лет" title="Перед спортивной BMW давних лет"/>
 </a>
 
-Ох этот взгляд... Я, честно говоря, не супер шарю за технические характеристики, устройство узлов авто, и модельный ряд с начала истории бренда. Я тут больше про эстетику и вайб. Если тоже разделяешь мои горячие чувства к этим красавчикам, это тебе:
+Ох этот взгляд... Я, честно говоря, не супер шарю за технические характеристики, устройство узлов авто и модельный ряд с начала истории бренда. Я тут больше про эстетику и вайб. Для тех, кто разделяет мои горячие чувства к этим красавчикам:
 
 <a href="https://dl.dropboxusercontent.com/s/na4kz79td8yrg4c/bmw%201.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/vsngvomv40c8czb/bmw%201-imresizer.jpeg?dl=0" alt="Подвешенная машина поколения 1977 года" title="Подвешенная машина поколения 1977 года"/>
@@ -77,10 +81,6 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
     <img src="https://dl.dropboxusercontent.com/s/p6p8sls1ralxiug/tv%20tower-imresizer.jpeg?dl=0" alt="Вид на телебашню через зданий общежития" title="Вид на телебашню через зданий общежития"/>
 </a>
 
-<a href="https://dl.dropboxusercontent.com/s/ycc2fp02bjxw681/mice.jpg?dl=0" target="_blank" rel="noreferrer">
-    <img src="https://dl.dropboxusercontent.com/s/tfaxoh9hn5sxiap/mice-imresizer.jpeg?dl=0" alt="Надя сидит на асфальте в лучах солнца" title="Надя сидит на асфальте в лучах солнца"/>
-</a>
-
 ## Город
 <a href="https://dl.dropboxusercontent.com/s/en0ngjzkahzwwqm/cyclist.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/e2t0im59fmb50l7/cyclist-imresizer.jpeg?dl=0" alt="Велосипедист едет вдоль дороги рядом с парком" title="Велосипедист едет вдоль дороги рядом с парком"/>
@@ -96,6 +96,10 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
 
 <a href="https://dl.dropboxusercontent.com/s/e97dewkj7rqb5qb/bmw%20headquarter.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/gm231y60gx5h9x2/bmw%20headquarter-imresizer.jpeg?dl=0" alt="Вид снизу на здание штаба BMW" title="Вид снизу на здание штаба BMW"/>
+</a>
+
+<a href="https://dl.dropboxusercontent.com/s/ycc2fp02bjxw681/mice.jpg?dl=0" target="_blank" rel="noreferrer">
+    <img src="https://dl.dropboxusercontent.com/s/tfaxoh9hn5sxiap/mice-imresizer.jpeg?dl=0" alt="Надя сидит на асфальте в лучах солнца" title="Надя сидит на асфальте в лучах солнца"/>
 </a>
 
 
