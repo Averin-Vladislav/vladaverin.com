@@ -1,6 +1,6 @@
 ---
 title: Мюнхен и BMW
-date: "2022-01-08"
+date: "2022-01-11"
 description: "Гоняли мы к своим друзьям в Мюнхен. Там посмотрели музей BMW, съели баварские сосески и сделали немного фоток в городе."
 ---
 
@@ -69,19 +69,21 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
 </a>
 
 ## Olympiapark
-Гештальт "свозить машинку на ее немецкую родину" закрыт. Вот и сижу довольный. А сижу на перилах у старых касс Олимпийского парка – тут же олимпиада была в 1972.
+Гештальт "свозить машинку на ее немецкую родину" закрыт. Вот и сижу довольный. А сижу на перилах у старых касс Олимпийского парка – тут олимпиада же была в 1972.
 
 <a href="https://dl.dropboxusercontent.com/s/4945ptlibixput9/olympic%20park.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/j2jupl0bic031nx/olympic%20park-imresizer.jpeg?dl=0" alt="Я сижу на перилах стадиона и улыбаюсь" title="Я сижу на перилах стадиона и улыбаюсь"/>
 </a>
 
-После олимпиады здания олимпийской деревни были переданы под студенческие общежития. Вот вид на телебашню со стороны этих зданий.
+После олимпиады здания олимпийской деревни были переданы под студенческие общежития. Вот вид на телебашню со стороны этих общаг.
 
 <a href="https://dl.dropboxusercontent.com/s/bh289i8ezz5hxp0/tv%20tower.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/p6p8sls1ralxiug/tv%20tower-imresizer.jpeg?dl=0" alt="Вид на телебашню через зданий общежития" title="Вид на телебашню через зданий общежития"/>
 </a>
 
 ## Город
+Город кайфовый: и исторический центр тут тебе, и просторные парки, и тачки кругом со вкусом, и немцы все такие стилевые с усами.
+
 <a href="https://dl.dropboxusercontent.com/s/en0ngjzkahzwwqm/cyclist.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/e2t0im59fmb50l7/cyclist-imresizer.jpeg?dl=0" alt="Велосипедист едет вдоль дороги рядом с парком" title="Велосипедист едет вдоль дороги рядом с парком"/>
 </a>
@@ -94,6 +96,10 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
     <img src="https://dl.dropboxusercontent.com/s/ujfdzslh8bpc7s4/walking%20legend-imresizer.jpeg?dl=0" alt="Я иду вдоль галереи с пакетом и в красной шапке" title="Я иду вдоль галереи с пакетом и в красной шапке"/>
 </a>
 
+<a href="https://dl.dropboxusercontent.com/s/69yvro35itsbdm1/escalator.jpg?dl=0" target="_blank" rel="noreferrer">
+    <img src="https://dl.dropboxusercontent.com/s/bb28rosgag6gkq5/escalator-imresizer.jpeg?dl=0" alt="Заброшенный эскалатор в подземной переходе" title="Заброшенный эскалатор в подземной переходе"/>
+</a>
+
 <a href="https://dl.dropboxusercontent.com/s/e97dewkj7rqb5qb/bmw%20headquarter.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/gm231y60gx5h9x2/bmw%20headquarter-imresizer.jpeg?dl=0" alt="Вид снизу на здание штаба BMW" title="Вид снизу на здание штаба BMW"/>
 </a>
@@ -101,5 +107,8 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
 <a href="https://dl.dropboxusercontent.com/s/ycc2fp02bjxw681/mice.jpg?dl=0" target="_blank" rel="noreferrer">
     <img src="https://dl.dropboxusercontent.com/s/tfaxoh9hn5sxiap/mice-imresizer.jpeg?dl=0" alt="Надя сидит на асфальте в лучах солнца" title="Надя сидит на асфальте в лучах солнца"/>
 </a>
+
+И посерфить даже можно в октябре.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8iV6Y7X226E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
