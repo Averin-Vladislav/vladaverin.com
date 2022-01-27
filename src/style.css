@@ -164,7 +164,6 @@ h3 > a,
 h4 > a,
 h5 > a,
 h6 > a {
-  text-decoration: none;
   color: inherit;
 }
 
@@ -242,6 +241,7 @@ table thead tr th {
 
 a {
   color: var(--color-primary);
+  outline-color: var(--color-primary);
 }
 
 a:hover,
@@ -294,12 +294,12 @@ a:focus {
 .link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
-  text-decoration: none;
   font-size: var(--fontSize-2);
 }
 
 .link-home:hover {
   color: var(--color-primary-light);
+  text-decoration: none;
 }
 
 .bio {
@@ -353,6 +353,7 @@ a:focus {
 
 .blog-post-link:hover {
   color: var(--color-primary-light);
+  text-decoration: none;
 }
 
 .blog-post header h1 {
