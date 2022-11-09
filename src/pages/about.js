@@ -168,13 +168,16 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x1F517; Ссылки</h2>
             <ul>
                 <li>
-                    <a href={`https://instagram.com/${social?.instagram || ``}`} target="_blank" rel="noreferrer">
-                        Инстаграм
-                    </a>
-                </li>
-                <li>
                     <a href={`https://t.me/${social?.telegram || ``}`} target="_blank" rel="noreferrer">
                         Телеграм
+                    </a> (+ 
+                    <a href="https://t.me/addstickers/nemnozko_oreshkov" target="_blank" rel="noreferrer">
+                        мой стикерпак
+                    </a>)
+                </li>
+                <li>
+                    <a href={`https://instagram.com/${social?.instagram || ``}`} target="_blank" rel="noreferrer">
+                        Инстаграм
                     </a>
                 </li>
                 <li>
