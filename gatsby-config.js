@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Троху ореху`,
+    title: `Немножко орешков`,
     author: {
       name: `Влад Аверин`,
       summary: `Я живу в Праге, Чехия.`,
@@ -9,9 +9,10 @@ module.exports = {
     siteUrl: `https://vladaverinpersonalsite.gatsbyjs.io/`,
     weatherAPI: `https://api.weatherapi.com/v1/current.json?key=5ff19fd9b90844bc941140900220601&q=Prague&aqi=no`,
     social: {
-      instagram: `trochu_orechu`,
+      instagram: `nemnozhko_oreshkov`,
       telegram: `averin_vlad`,
       portfolio: `https://vladaverin.com/`,
+      strava: `https://www.strava.com/athletes/averin_vlad`,
     },
   },
   plugins: [
