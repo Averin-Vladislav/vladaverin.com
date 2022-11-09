@@ -20,7 +20,6 @@ const AboutMePage = ({ data, location }) => {
                                 console.error(error);
                             });
                     
-                            console.log(responseJson);
         const temperature = Math.round(responseJson.current.temp_c);
 
         switch (true) {
@@ -51,21 +50,22 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="About" />
         
         <h1 className="about-me-heading">Много обо мне</h1>
-        <span className="about-me-update">Обновлено 06.01.2022</span>
+        <span className="about-me-update">Обновлено 09.11.2022</span>
         <img className="about-me-img" src="https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0" alt="Фото меня на фоне летних гор" title="Фото меня на фоне летних гор"/>
 
         <div>
             <h2>&#x1F44B; Интро</h2>
-            <p>Мне 25 лет. Отучился на программиста в Минске, но всегда был про дизайн, визуал и восприятие.
-                Пока западнее Парижа и восточнее Москвы нигде не бывал. Неплохо шпарю по-английски, учу чешский
+            <p>Мне 26 лет. Отучился на программиста в Минске, но всегда был про дизайн, визуал и восприятие.
+                Пока западнее Барселоны и восточнее Москвы нигде не бывал. Неплохо шпарю по-английски, чего-то могу выдавить по-чешски
                 и кайфую от немецкого. Под боком всегда любимая мышка и кот.</p>
         </div>
            
         <div>
             <h2>&#x1F4CD; Локация</h2>
             <p>Детство в Барановичах → отрочество в Минске → юность в Праге. Живу в афигенном
-                районе <a href="https://goo.gl/maps/W2qfNoGQDw1obnfe7" target="_blank" rel="noreferrer">Praha 5 Smíchov</a>: 
-                большие парки, бомжи, шаурмичные с жиром по бороде и шикарный вид из окна. {temperatureInfo}</p>
+                районе <a href="https://goo.gl/maps/ZCYXQvAJDVc5Pxjq9" target="_blank" rel="noreferrer">Velká Chuchle</a>: 
+                деревенские вайбы, кони с козами пасутся, ипподром рядом, супер классный полудикий парк, местная пожарная станция с одной машиной,
+                достойный вид из окна, и вообще ощущение, что все друг друга знают. {temperatureInfo}</p>
         </div>
 
         <div>
@@ -86,13 +86,13 @@ const AboutMePage = ({ data, location }) => {
                     LEGO
                 </li>
                 <li>
-                    Оружие и всякое тактическое (очень заходит ютуб канал <a href="https://www.youtube.com/c/715TEAM" target="_blank" rel="noreferrer">715 team</a>)
+                    Оружие и всякое тактическоe
                 </li>
                 <li>
                     Наруто
                 </li>
                 <li>
-                    ФК Арсенал Лондон (особо часто не кайфую)
+                    ФК Арсенал Лондон (в последнее время прям очень кайфую)
                 </li>
                 <li>
                     Сделано в СССР (коструктивизм, утилитарный дизайн, техника, вес предметов)
@@ -101,7 +101,7 @@ const AboutMePage = ({ data, location }) => {
                     Фоткаю на пленку (Зенит TTL + Юпитер 37А / Гелиос-44М)
                 </li>
                 <li>
-                    Сырный борт Papa Johns
+                    Сырный борт Papa Johns (а в Чехии его нет, R.I.P.)
                 </li>
                 <li>
                     Звездные войны
@@ -113,10 +113,7 @@ const AboutMePage = ({ data, location }) => {
                     BMW (пилот 425d F36 2016)
                 </li>
                 <li>
-                    Under Armour (любимый спортивный бренд)
-                </li>
-                <li>
-                    Недавно начал пробовать себя на барабанах (ютуб канал с приколом <a href="https://www.youtube.com/c/ZackGrooves" target="_blank" rel="noreferrer">ZackGrooves</a>)
+                    Uniqlo (бренд шмотья который)
                 </li>
                 <li>
                     Порядок на грани с <a href="https://w.wiki/4e5r" target="_blank" rel="noreferrer">ОКР</a> и списки, списки, списки
@@ -139,6 +136,12 @@ const AboutMePage = ({ data, location }) => {
                 <li>
                     Электрогитара
                 </li>
+                <li>
+                    Барабаны
+                </li>
+                <li>
+                    Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank" rel="noreferrer">ARMWRESLING TV</a>).
+                </li>
             </ul>
         </div> */}
         
@@ -146,16 +149,14 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x26BD; Спортик</h2>
             <ul>
                 <li>
-                    Когда-то на футбольчике прокидывал в очко только так.
+                    Катаюсь на аэро-ракете <a href="https://www.orbea.com/cz-en/bicycles/road/orca-aero/cat/orca-aero-m20ltd" target="_blank" rel="noreferrer">Orbea Orca Aero M20LTD</a>. 
+                    Моя <a href={social.strava} target="_blank" rel="noreferrer">Strava</a>.
                 </li>
                 <li>
                     Время от времени прохожу курс <a href="https://sektaschool.ru/" target="_blank" rel="noreferrer">Sekta</a>.
                 </li>
                 <li>
-                    Катаюсь на грэвеле <a href="https://rondo.cc/ruut-al-2,467,pl" target="_blank" rel="noreferrer">Rondo RUUT AL2 2020</a>.
-                </li>
-                <li>
-                    Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank" rel="noreferrer">ARMWRESLING TV</a>).
+                    Когда-то на футбольчике прокидывал в очко только так.
                 </li>
                 <li>
                     Люблю посмотреть хайповые бои UFC.
@@ -199,6 +200,7 @@ export const pageQuery = graphql`
             instagram
             telegram
             portfolio
+            strava
         }
       }
     }

@@ -9,8 +9,8 @@ description: "Фотографии поездки в Австрию (октяб�
 ## Австрия
 В Австрии мы ночевали в антуражном месте со свынями, курями, павлином, лошадьми, петухами, и много с кем еще. Там же стоял сельский трактор в сарае.
 
-<a href="https://dl.dropboxusercontent.com/s/ax4m6q41f5sm7vh/village%20vibe%20raw-min.jpeg?dl=0" target="_blank" rel="noreferrer">
-    <img src="https://dl.dropboxusercontent.com/s/c7zew5axk5o2gfw/Optimized-village%20vibe%20raw-min.jpeg?dl=0" alt="Я и друзья сидим на тракторе в сарае" title="Я и друзья сидим на тракторе в сарае"/>
+<a href="https://dl.dropboxusercontent.com/s/keuphsy0dft6e8n/village%20vibe%20compressed.jpeg?dl=0" target="_blank" rel="noreferrer">
+    <img src="https://dl.dropboxusercontent.com/s/hjfuz4l2068gv58/village%20vibe%20preview.jpeg?dl=0" alt="Я и друзья сидим на тракторе в сарае" title="Я и друзья сидим на тракторе в сарае"/>
 </a>
 
 И альпийские коровы конечно там были.

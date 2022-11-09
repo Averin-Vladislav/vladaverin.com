@@ -22,6 +22,7 @@ const Seo = ({ description, lang, meta, title }) => {
               instagram
               telegram
               portfolio
+              strava
             }
           }
         }
@@ -78,7 +79,7 @@ const Seo = ({ description, lang, meta, title }) => {
 }
 
 Seo.defaultProps = {
-  lang: `ru`,
+  lang: `runhj`,
   meta: [],
   description: ``,
 }
