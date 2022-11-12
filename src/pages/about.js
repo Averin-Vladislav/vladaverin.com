@@ -107,9 +107,6 @@ const AboutMePage = ({ data, location }) => {
                     Звездные войны
                 </li>
                 <li>
-                    Рисуем с девушкой картины
-                </li>
-                <li>
                     BMW (пилот 425d F36 2016)
                 </li>
                 <li>
@@ -138,6 +135,9 @@ const AboutMePage = ({ data, location }) => {
                 </li>
                 <li>
                     Барабаны
+                </li>
+                <li>
+                    Рисуем с девушкой картины
                 </li>
                 <li>
                     Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank" rel="noreferrer">ARMWRESLING TV</a>).
