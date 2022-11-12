@@ -23,6 +23,7 @@ const Seo = ({ description, lang, meta, title }) => {
               telegram
               portfolio
               strava
+              movie_library
             }
           }
         }

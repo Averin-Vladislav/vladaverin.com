@@ -185,6 +185,11 @@ const AboutMePage = ({ data, location }) => {
                         Портфолио
                     </a>
                 </li>
+                <li>
+                    <a href={social.movie_library} target="_blank" rel="noreferrer">
+                        Моя библиотека фильмов и сериалов
+                    </a>
+                </li>
             </ul>
         </div>
     </Layout>
@@ -204,6 +209,7 @@ export const pageQuery = graphql`
             telegram
             portfolio
             strava
+            movie_library
         }
       }
     }

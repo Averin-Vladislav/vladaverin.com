@@ -13,6 +13,7 @@ module.exports = {
       telegram: `averin_vlad`,
       portfolio: `https://vladaverin.com/`,
       strava: `https://www.strava.com/athletes/averin_vlad`,
+      movie_library: `https://coda.io/d/_dbYQB8G6DFe/Movie-library_suZU2`,
     },
   },
   plugins: [
