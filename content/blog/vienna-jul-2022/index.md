@@ -4,7 +4,7 @@ date: "2022-07-24"
 description: "Вена одинаковая. Зато есть много интересных кафешек и нет проблем с магазинами всего, что хочешь."
 ---
 
-В Вене не особо есть, чем заняться. Но точно нужно:
+<!-- В Вене не особо есть, чем заняться. Но точно нужно:
 * Искупаться в Дунае <a href="https://goo.gl/maps/JKp17Gf12hozBgKF9" target="_blank" rel="norferrer"> на этом островке</a>
 * Посмотреть на <a href="https://goo.gl/maps/dwGg8kgSFTcxRbjX8" target="_blank" rel="norferrer">зенитные башни люфваффе</a>
 * Съесть мороженое <a href="https://goo.gl/maps/ndL99QkcUQtK728Y9" target="_blank" rel="norferrer">тут</a>
@@ -36,4 +36,4 @@ description: "Вена одинаковая. Зато есть много инт
 
 <a href="https://dl.dropboxusercontent.com/s/b1p5sejzmpcja31/6.JPG?dl=0" target="_blank" rel="norferrer">
     <img src="https://dl.dropboxusercontent.com/s/he4d7j4o87czyqb/6-imresizer.jpeg?dl=0" alt="Скульптурный комплекс в черно-белых цветах, другой ракурс" title="Скульптурный комплекс в черно-белых цветах, другой ракурс"/>
-</a>
+</a> -->

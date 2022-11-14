@@ -17,6 +17,8 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -46,8 +48,11 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
+            resolve: "gatsby-remark-images-anywhere",
             options: {
+              createMarkup: ({ src, alt, originSrc, aspectRatio }) => `<a href="${originSrc}" target="_blank" rel="noreferrer"><img src="${src}" alt="${alt}" title="${alt}" style="aspect-ratio: ${aspectRatio}" /></a>`,
+              linkImagesToOriginal: true,
+              sharpMethod: "fluid",
               maxWidth: 630,
             },
           },
@@ -63,8 +68,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
