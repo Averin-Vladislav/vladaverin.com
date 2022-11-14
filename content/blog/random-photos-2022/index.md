@@ -4,7 +4,7 @@ date: "2022-11-09"
 description: "Фото-лушпайки – это категория постов со случайными фотографиями за случайный отрезок времени."
 ---
 
-<!-- Фото-лушпайки – это категория постов со случайными фотографиями. Вот я и коллеги сидим улыбаемся на пароме в Нидерландах.
+Фото-лушпайки – это категория постов со случайными фотографиями. Вот я и коллеги сидим улыбаемся на пароме в Нидерландах.
 
 <a href="https://dl.dropboxusercontent.com/s/hoq1gcifop692nd/1.JPG?dl=0" target="_blank" rel="norferrer">
     <img src="https://dl.dropboxusercontent.com/s/z4t9pnxbr73tqh3/1-imresizer.jpeg?dl=0" alt="Я и коллеги сидим улыбаемся" title="Я и коллеги сидим улыбаемся"/>
@@ -39,4 +39,4 @@ Mám to ráda i zezadu (<a href="https://translate.google.ru/?hl=ru&tab=TT&sl=cs
 <a href="https://dl.dropboxusercontent.com/s/1br2gepr91u1gma/7.jpg?dl=0" target="_blank" rel="norferrer">
     <img src="https://dl.dropboxusercontent.com/s/d2q3l1s21h4e17f/7-imresizer.jpeg?dl=0" alt="Я и Надя улыбаемся пока едим суши" title="Я и Надя улыбаемся пока едим суши"/>
 </a>
- -->
+
