@@ -4,7 +4,7 @@ date: "2022-01-11"
 description: "Гоняли мы к своим друзьям в Мюнхен. Там посмотрели музей BMW, съели баварские сосески и сделали немного фоток в городе."
 ---
 
-## Пиво и еда
+<!-- ## Пиво и еда
 Гоняли мы к своим друзьям в Мюнхен. Первый, с кем меня там познакомили, был "зеленый дед" (это кодовое название пива [Augustiner Helles](https://www.beermerchants.com/augustiner-helles)). В какой-то момент в своей душе я на мнговение предал чешское пиво навсегда. Но все же и немецкое и чешское вкусное по-своему и сильно отличаются друг от друга. Пьют зеленого деда здесь по дефолту всегда и на всех увесилительных мероприятиях. И вот такими ящиками затаривают себе домой.
 
 <a href="https://dl.dropboxusercontent.com/s/sk9uwnq0zaxz5gp/beer.jpg?dl=0" target="_blank" rel="noreferrer">
@@ -111,4 +111,4 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
 И посерфить даже можно в октябре.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8iV6Y7X226E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+ -->
