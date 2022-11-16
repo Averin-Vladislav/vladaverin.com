@@ -24,7 +24,9 @@ description: "Гоняли мы к своим друзьям в Мюнхен. Т
 Ядерный удар по бочкам – это [кайзершмарн](https://en.wikipedia.org/wiki/Kaiserschmarrn). Вообще это австрийская традиционная сладость, но здесь тоже ее изи можно заказать. По сути, это рваные блины, посыпанные сахарной пудрой и залитые всякими сладкими соусами. Вот нам подали с яблочным пюре.
 
 <a href="https://dl.dropboxusercontent.com/s/o0pfyqhhpfaf0x9/german%20sweets.jpg?dl=0" target="_blank" rel="noreferrer">
-    <img src="https://dl.dropboxusercontent.com/s/0dmmxppqloes51l/german%20sweets-imresizer.jpeg?dl=0" alt="Кайзершмарн на столе" title="Кайзершмарн на столе"/>
+
+<img src="https://dl.dropboxusercontent.com/s/0dmmxppqloes51l/german%20sweets-imresizer.jpeg?dl=0" alt="Кайзершмарн на столе" title="Кайзершмарн на столе"/>
+
 </a>
 
 ## Музей BMW
