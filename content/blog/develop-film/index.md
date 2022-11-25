@@ -43,7 +43,7 @@ description: "Фотографии поездки в Австрию (октяб�
 
 </a>
 
-Я и [Андруха](https://www.instagram.com/andrey_sitsko/).
+Я и <a href="https://www.instagram.com/andrey_sitsko/" target="_blank" rel="norferrer">Андруха</a>.
 
 <a href="https://dl.dropboxusercontent.com/s/mk9ny2xrf8ie5ab/andruha%20compressed.jpeg?dl=0" target="_blank" rel="noreferrer">
 
@@ -58,7 +58,11 @@ description: "Фотографии поездки в Австрию (октяб�
 </a>
 
 ## Италия
-Мы тусовались на севере Италии: озеро [Гарда](https://goo.gl/maps/hjxXjPotAbXJyPoh8), [Верона](https://goo.gl/maps/p8AkPkf4PgyDXyXA7) и, спонтанно, [Венеция](https://goo.gl/maps/QD5m8KCzTafg53ru8). Пиццу на каждом углу там поесть, оказывается, не получится. Пацаны здесь больше по ризотто, сырным нарезкам, ньокки, и пасте.
+Мы тусовались на севере Италии: озеро 
+<a href="https://goo.gl/maps/hjxXjPotAbXJyPoh8" target="_blank" rel="norferrer">Гарда</a>, 
+<a href="https://goo.gl/maps/p8AkPkf4PgyDXyXA7" target="_blank" rel="norferrer">Верона</a> и, спонтанно, 
+<a href="https://goo.gl/maps/QD5m8KCzTafg53ru8" target="_blank" rel="norferrer">Венеция</a>. 
+Пиццу на каждом углу там поесть, оказывается, не получится. Пацаны здесь больше по ризотто, сырным нарезкам, ньокки, и пасте.
 
 <a href="https://dl.dropboxusercontent.com/s/w281j5fvolt9azz/garda%20compressed.jpeg?dl=0" target="_blank" rel="noreferrer">
 
