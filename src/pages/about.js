@@ -50,7 +50,7 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="About" />
         
         <h1 className="about-me-heading">Много обо мне</h1>
-        <span className="about-me-update">Обновлено 09.11.2022</span>
+        <span className="about-me-update">Обновлено 12.01.2023</span>
         <img className="about-me-img" src="https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0" alt="Фото меня на фоне летних гор" title="Фото меня на фоне летних гор"/>
 
         <div>
@@ -157,9 +157,6 @@ const AboutMePage = ({ data, location }) => {
                 </li>
                 <li>
                     Когда-то на футбольчике прокидывал в очко только так.
-                </li>
-                <li>
-                    Люблю посмотреть хайповые бои UFC.
                 </li>
             </ul>
         </div>
