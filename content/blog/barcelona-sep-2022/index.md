@@ -95,3 +95,6 @@ description: "Фотки с пленки из Барселоны. А Барсе�
 <img src="https://dl.dropboxusercontent.com/s/kgw7x8hv60paopn/12-imresizer.jpeg?dl=0" alt="Я, Витя, Диана, Влад и Надя сидим на берегу на фоне моря" title="Я, Витя, Диана, Влад и Надя сидим на берегу на фоне моря"/>
 
 </a>
+
+И вот как все это было красиво с дрона:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zyk6rgsivkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
