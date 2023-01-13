@@ -1,10 +1,10 @@
 ---
-title: Фотоюшка (выпуск 3)
+title: Юшка (выпуск 3)
 date: "2023-01-13"
 description: "Гараж в стиле пленизма и Новый год."
 ---
 
-Фотоюшка – это супец из случайных фотографий за случайный отрезок времени. Вот Мышка-крутик в <a href="https://g.co/kgs/rtWvfo" target="_blank" rel="norferrer">Национальном музее Праги</a> стоит, пальцы растопырила.
+Юшка – это супец из случайных фотографий за случайный отрезок времени. Вот Мышка-крутик в <a href="https://g.co/kgs/rtWvfo" target="_blank" rel="norferrer">Национальном музее Праги</a> стоит, пальцы растопырила.
 
 <a href="https://dl.dropboxusercontent.com/s/cwvjcxl8tn0mdpl/1.jpg?dl=0" target="_blank" rel="norferrer">
     <img src="https://dl.dropboxusercontent.com/s/p2et2tsfpk1lx9v/1-ImResizer.jpeg?dl=0" alt="Надя на фоне холла Национального музея" title="Надя на фоне холла Национального музея"/>
