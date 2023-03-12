@@ -32,26 +32,29 @@ const BlogIndex = ({ data, location }) => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
-            <li key={post.fields.slug} className="post-list-item">
-              <article itemScope itemType="http://schema.org/Article">
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} className="blog-post-link" itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
-            </li>
+            <Link to={post.fields.slug} className="blog-post-link" itemProp="url">
+              <li key={post.fields.slug} className="post-list-item">
+                <article itemScope itemType="http://schema.org/Article">
+                  <section>
+                    <img src={post.frontmatter.image} alt="test"/>
+                    <div className="overlay">
+                    </div>
+                    <header>
+                      <h2 itemProp="headline">
+                        {title}
+                      </h2>
+                      <small>{post.frontmatter.date}</small>
+                      <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                    </header>
+                  </section>
+                </article>
+              </li>
+            </Link>
           )
         })}
       </ol>
@@ -78,6 +81,7 @@ export const pageQuery = graphql`
           date(formatString: "DD.MM.YYYY")
           title
           description
+          image
         }
       }
     }
