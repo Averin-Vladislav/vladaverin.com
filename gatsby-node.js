@@ -112,6 +112,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       description: String
       date: Date @dateformat
       image: String
+      alt: String
     }
 
     type Fields {

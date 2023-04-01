@@ -5,7 +5,7 @@ module.exports = {
       name: `Влад Аверин`,
       summary: `Я живу в Праге, Чехия.`,
     },
-    description: `My starter blog`,
+    description: `Photo narratives by Vlad Averin's life`,
     siteUrl: `https://vladaverinpersonalsite.gatsbyjs.io/`,
     weatherAPI: `https://api.weatherapi.com/v1/current.json?key=5ff19fd9b90844bc941140900220601&q=Prague&aqi=no`,
     social: {
@@ -121,7 +121,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Vlad Averin's stories RSS Feed",
           },
         ],
       },

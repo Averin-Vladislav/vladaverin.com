@@ -96,6 +96,7 @@ export const pageQuery = graphql`
         date(formatString: "DD.MM.YYYY")
         description
         image
+        alt
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
