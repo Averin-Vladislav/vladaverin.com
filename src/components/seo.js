@@ -59,28 +59,32 @@ const Seo = ({ description, lang, meta, title }) => {
           content: `website`,
         },
         {
-          name: `twitter:card`,
-          content: `summary`,
+          property: `og:image`,
+          content: `https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0`,
         },
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata?.social?.twitter || ``,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
+        // {
+        //   name: `twitter:card`,
+        //   content: `summary`,
+        // },
+        // {
+        //   name: `twitter:creator`,
+        //   content: site.siteMetadata?.social?.twitter || ``,
+        // },
+        // {
+        //   name: `twitter:title`,
+        //   content: title,
+        // },
+        // {
+        //   name: `twitter:description`,
+        //   content: metaDescription,
+        // },
       ].concat(meta)}
     />
   )
 }
 
 Seo.defaultProps = {
-  lang: `runhj`,
+  lang: `ru`,
   meta: [],
   description: ``,
 }

@@ -3,6 +3,7 @@ title: Мюнхен и BMW
 date: "2022-01-11"
 description: "Гоняли мы к своим друзьям в Мюнхен. Там посмотрели музей BMW, съели баварские сосески и сделали немного фоток в городе."
 image: "https://dl.dropboxusercontent.com/s/vsngvomv40c8czb/bmw%201-imresizer.jpeg?dl=0"
+alt: "Подвешенная машина поколения 1977 года"
 ---
 
 ## Пиво и еда

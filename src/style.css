@@ -307,7 +307,7 @@ a:focus {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  max-height: 400px;
+  height: 400px;
   transition: opacity 0.5s ease 0.5s;
   object-fit: cover;
 }

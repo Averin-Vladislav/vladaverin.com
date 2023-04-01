@@ -32,11 +32,11 @@ const BlogIndex = ({ data, location }) => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
-            <Link to={post.fields.slug} className="blog-post-link" itemProp="url">
-              <li key={post.fields.slug} className="post-list-item">
+            <Link key={post.fields.slug} to={post.fields.slug} className="blog-post-link" itemProp="url">
+              <li className="post-list-item">
                 <article itemScope itemType="http://schema.org/Article">
                   <section>
-                    <img src={post.frontmatter.image} alt="test"/>
+                    <img src={post.frontmatter.image} alt={post.frontmatter.alt}/>
                     <div className="overlay">
                     </div>
                     <header>
@@ -82,6 +82,7 @@ export const pageQuery = graphql`
           title
           description
           image
+          alt
         }
       }
     }
