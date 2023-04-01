@@ -25,6 +25,7 @@ const Seo = ({ description, lang, meta, title }) => {
               strava
               movie_library
             }
+            previewThumbnail
           }
         }
       }
@@ -33,6 +34,7 @@ const Seo = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const previewThumbnail = site.siteMetadata.previewThumbnail
 
   return (
     <Helmet
@@ -60,7 +62,7 @@ const Seo = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image`,
-          content: `https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0`,
+          content: previewThumbnail,
         },
         // {
         //   name: `twitter:card`,

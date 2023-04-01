@@ -87,6 +87,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       siteUrl: String
       weatherAPI: String
       social: Social
+      previewThumbnail: String
     }
 
     type Author {
