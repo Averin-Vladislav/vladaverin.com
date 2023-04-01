@@ -3,10 +3,11 @@ module.exports = {
     title: `Немножко орешков`,
     author: {
       name: `Влад Аверин`,
-      summary: `Я живу в Праге, Чехия.`,
+      summary: `Фото истории про меня`,
     },
-    description: `Photo narratives by Vlad Averin's life`,
-    siteUrl: `https://vladaverinpersonalsite.gatsbyjs.io/`,
+    description: `Photo narratives from Vlad Averin's life`,
+    siteUrl: `https://with.vladaverin.com/`,
+    previewThumbnail: `https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0`,
     weatherAPI: `https://api.weatherapi.com/v1/current.json?key=5ff19fd9b90844bc941140900220601&q=Prague&aqi=no`,
     social: {
       instagram: `nemnozhko_oreshkov`,
@@ -82,6 +83,7 @@ module.exports = {
                 description
                 siteUrl
                 site_url: siteUrl
+                previewThumbnail
               }
             }
           }
@@ -129,8 +131,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Vlad Averin – personal blog`,
-        short_name: `Vlad's blog`,
+        name: `Vlad Averin photo narratives`,
+        short_name: `Vlad's stories`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
