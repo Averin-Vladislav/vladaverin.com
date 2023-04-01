@@ -1,5 +1,5 @@
 ---
-title: Юшка (выпуск 2)
+title: Юшка №2
 date: "2022-11-09"
 description: "Тут все люди улыбаются и про велики немного."
 image: "https://dl.dropboxusercontent.com/s/d2q3l1s21h4e17f/7-imresizer.jpeg?dl=0"

@@ -36,7 +36,7 @@ const BlogIndex = ({ data, location }) => {
               <Link to={post.fields.slug} className="blog-post-link" itemProp="url">
                 <article itemScope itemType="http://schema.org/Article">
                   <section>
-                    <img src={post.frontmatter.image} alt={post.frontmatter.alt}/>
+                    <img src={post.frontmatter.image} alt={post.frontmatter.alt} title={post.frontmatter.alt}/>
                     <div className="overlay"></div>
                     <header>
                       <h2 itemProp="headline">
@@ -77,7 +77,7 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          date(formatString: "DD.MM.YYYY")
+          date(formatString: "DD MMMM YYYY", locale: "ru")
           title
           description
           image
