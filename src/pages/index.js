@@ -32,13 +32,12 @@ const BlogIndex = ({ data, location }) => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
-            <Link key={post.fields.slug} to={post.fields.slug} className="blog-post-link" itemProp="url">
-              <li className="post-list-item">
+            <li key={post.fields.slug} className="post-list-item">
+              <Link to={post.fields.slug} className="blog-post-link" itemProp="url">
                 <article itemScope itemType="http://schema.org/Article">
                   <section>
                     <img src={post.frontmatter.image} alt={post.frontmatter.alt}/>
-                    <div className="overlay">
-                    </div>
+                    <div className="overlay"></div>
                     <header>
                       <h2 itemProp="headline">
                         {title}
@@ -53,8 +52,8 @@ const BlogIndex = ({ data, location }) => {
                     </header>
                   </section>
                 </article>
-              </li>
-            </Link>
+              </Link>
+            </li>
           )
         })}
       </ol>
