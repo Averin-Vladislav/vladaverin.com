@@ -97,8 +97,8 @@ alt: "Я держу Надю на спине на фоне гор"
     <img src="https://drive.google.com/uc?id=1h4aT6SXZVheFnGHg3MEVHpQB6B-F3y92" alt="Парень с лыжами на парашюте пикирует над горным склоном" title="Парень с лыжами на парашюте пикирует над горным склоном"/>
 </a>
 
-## Кульминация
-Конечно же, самое главное ради чего мы все собрались, были не словенские горы, а <a href="https://pikabu.ru/story/slepaya_kuritsa_2347626" target="_blank" rel="norferrer">слепая курица</a>. Правила очень простые: заправляешь местное пиво в пузо, носок на голову и вперед.
+## Главный повод собраться
+Конечно же, самое главное ради чего мы все собрались, были не словенские горы, а <a href="https://pikabu.ru/story/slepaya_kuritsa_2347626" target="_blank" rel="norferrer">слепая курица</a>. Правила этой игры очень простые: заправляешь местное пиво в пузо, носок на голову и вперед.
 
 <a href="https://drive.google.com/uc?id=1yHuVmuOvsy3N0dc6-l_9hCSO-VVZZYYE" target="_blank" rel="norferrer">
     <img src="https://drive.google.com/uc?id=1yHuVmuOvsy3N0dc6-l_9hCSO-VVZZYYE" alt="Андрей смеется и убегает от слепой курицы" title="Андрей смеется и убегает от слепой курицы"/>

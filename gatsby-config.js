@@ -7,7 +7,7 @@ module.exports = {
     },
     description: `Photo narratives from Vlad Averin's life`,
     siteUrl: `https://with.vladaverin.com/`,
-    previewThumbnail: `https://dl.dropboxusercontent.com/s/vp2944mnj7v1b2l/about-me.JPG?dl=0`,
+    previewThumbnail: `https://drive.google.com/uc?id=1TbdHUBxCT1rLvHo5YDhUPM20mtbpQrJL`,
     weatherAPI: `https://api.weatherapi.com/v1/current.json?key=5ff19fd9b90844bc941140900220601&q=Prague&aqi=no`,
     social: {
       instagram: `nemnozhko_oreshkov`,
