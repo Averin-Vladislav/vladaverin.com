@@ -1,5 +1,5 @@
 ---
-title: Юшка (выпуск 1)
+title: Юшка №1
 date: "2022-07-06"
 description: "Плёнка с Варшавы, Вроцлава, наплавки в Праге, Чешской Швейцарии и подвесного моста в Чехии."
 image: "https://dl.dropboxusercontent.com/s/650us3oddbqt2r5/7-imresizer.jpeg?dl=0"

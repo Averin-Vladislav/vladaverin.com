@@ -1,9 +1,9 @@
 ---
-title: Юшка (выпуск 3)
+title: Юшка №3
 date: "2023-01-13"
 description: "Гараж в стиле пленизма и Новый год."
-image: "https://dl.dropboxusercontent.com/s/5raoc5lfz6gjcmj/6-ImResizer.jpeg?dl=0"
-alt: "Влад в капюшоне на фоне снежных словенских гор"
+image: "https://dl.dropboxusercontent.com/s/fl2cox02y6l3h84/3-ImResizer.jpeg?dl=0"
+alt: "Машина в гараже с красивыми плакатами"
 ---
 
 Юшка – это супец из случайных фотографий за случайный отрезок времени. Вот Мышка-крутик в <a href="https://g.co/kgs/rtWvfo" target="_blank" rel="norferrer">Национальном музее Праги</a> стоит, пальцы растопырила.
