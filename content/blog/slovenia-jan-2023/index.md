@@ -103,3 +103,8 @@ alt: "Я держу Надю на спине на фоне гор"
 <a href="https://dl.dropboxusercontent.com/s/2bzwi3q5bokouai/17-min.jpg?dl=0" target="_blank" rel="norferrer">
     <img src="https://dl.dropboxusercontent.com/s/2bzwi3q5bokouai/17-min.jpg?dl=0" alt="Парень с лыжами на парашюте пикирует над горным склоном" title="Парень с лыжами на парашюте пикирует над горным склоном"/>
 </a>
+
+Тест
+<a href="https://drive.google.com/uc?id=14I9EWTgA7IFLtZPbTiN_d5fuPo333gaV" target="_blank" rel="norferrer">
+    <img src="https://drive.google.com/uc?id=14I9EWTgA7IFLtZPbTiN_d5fuPo333gaV" alt="Парень с лыжами на парашюте пикирует над горным склоном" title="Парень с лыжами на парашюте пикирует над горным склоном"/>
+</a>
