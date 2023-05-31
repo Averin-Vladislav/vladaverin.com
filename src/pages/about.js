@@ -69,13 +69,6 @@ const AboutMePage = ({ data, location }) => {
         </div>
 
         <div>
-            <h2>&#x1F4BB; Работа</h2>
-            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>,
-            отвечаю за <a href="https://w.wiki/4e9e" target="_blank" rel="noreferrer">дизайн систему</a>. В работе ценю порядок, 
-            здравый смысл и адекватных людей.</p>
-        </div>
-
-        <div>
             <h2>&#x2764; От чего кайфую</h2>
             <ul>
                 <li>
@@ -164,6 +157,14 @@ const AboutMePage = ({ data, location }) => {
             </ul>
         </div> */}
         
+        <div>
+            <h2>&#x1F4BB; Откуда бабки</h2>
+            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>,
+            отвечаю за <a href="https://w.wiki/4e9e" target="_blank" rel="noreferrer">дизайн систему</a>, 
+            которая называется <a href="https://thesis.pandadoc.com/" target="_blank" rel="noreferrer">Thesis</a>. 
+            В работе ценю порядок, здравый смысл и адекватных людей.</p>
+        </div>
+
         <div>
             <h2>&#x1F517; Ссылки</h2>
             <ul>
