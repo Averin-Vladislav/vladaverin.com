@@ -50,11 +50,11 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="Много обо мне" />
         
         <h1 className="about-me-heading">Много обо мне</h1>
-        <span className="about-me-update">Обновлено 2 апреля 2023</span>
-        <img className="about-me-img" src="https://drive.google.com/uc?id=1TbdHUBxCT1rLvHo5YDhUPM20mtbpQrJL" alt="Черно-белое фото меня на снежных склонов" title="Черно-белое фото меня на снежных склонов"/>
+        <span className="about-me-update">Обновлено 31 мая 2023</span>
+        <img className="about-me-img" src="https://drive.google.com/uc?id=1vjtpQbvCiwyfLZCUvBCpD53FLB3CMZlv" alt="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов" title="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов"/>
 
         <div>
-            <h2>&#x1F44B; Интро</h2>
+            <h2>&#x1F44B; Халоу</h2>
             <p>Мне 26 лет. Отучился на программиста в Минске, но всегда был про дизайн, визуал и восприятие.
                 Неплохо шпарю по-английски, чего-то могу выдавить по-чешски
                 и кайфую от немецкого. Под боком всегда любимая Мышка и кот.</p>
@@ -64,26 +64,26 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x1F4CD; Локация</h2>
             <p>Детство в Барановичах → отрочество в Минске → юность в Праге. Живу в афигенном
                 районе <a href="https://goo.gl/maps/ZCYXQvAJDVc5Pxjq9" target="_blank" rel="noreferrer">Velká Chuchle</a>: 
-                деревенские вайбы, кони с козами пасутся, ипподром рядом, суперклассный полудикий парк, местная пожарная станция с одной машиной,
-                достойный вид из окна, и такое ощущение, что все здесь друг друга знают. {temperatureInfo}</p>
+                деревенские вайбы, кони с козами пасутся, ипподром рядом, местная пожарная станция с одной машиной,
+                топовый вид из окна, и такое ощущение, что все здесь друг друга знают. {temperatureInfo}</p>
         </div>
 
         <div>
             <h2>&#x1F4BB; Работа</h2>
-            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>.
-                Отвечаю за <a href="https://w.wiki/4e9e" target="_blank" rel="noreferrer">дизайн систему</a> и
-                помогаю остальным дизайнерам работать эффективно и качественно. В работе ценю порядок, 
-                здравый смысл и адекватных людей.</p>
+            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>,
+            отвечаю за <a href="https://w.wiki/4e9e" target="_blank" rel="noreferrer">дизайн систему</a>. В работе ценю порядок, 
+            здравый смысл и адекватных людей.</p>
         </div>
 
         <div>
             <h2>&#x2764; От чего кайфую</h2>
             <ul>
                 <li>
-                    Дизайн
+                    Велик. Катаюсь на аэро-ракете <a href="https://www.orbea.com/cz-en/bicycles/road/orca-aero/cat/orca-aero-m20ltd" target="_blank" rel="noreferrer">Orbea Orca Aero M20LTD</a>. 
+                    Моя <a href={social.strava} target="_blank" rel="noreferrer">Strava</a>.
                 </li>
                 <li>
-                    LEGO
+                    Дизайн
                 </li>
                 <li>
                     Оружие и всякое тактическоe
@@ -92,16 +92,13 @@ const AboutMePage = ({ data, location }) => {
                     Наруто
                 </li>
                 <li>
-                    ФК Арсенал Лондон
-                </li>
-                <li>
-                    Сделано в СССР (конструктивизм, утилитарный дизайн, техника, вес предметов)
+                    Топлю на лондонский Арсенал
                 </li>
                 <li>
                     Фоткаю на пленку (Зенит TTL + Юпитер 37А / Гелиос-44М)
                 </li>
                 <li>
-                    Сырный борт Papa Johns (в Чехии его нет, R.I.P.)
+                    Сырный борт в Papa Johns
                 </li>
                 <li>
                     Звездные войны
@@ -110,10 +107,13 @@ const AboutMePage = ({ data, location }) => {
                     BMW (пилот 425d F36 2016)
                 </li>
                 <li>
-                    Uniqlo (бренд шмотья который)
+                    Uniqlo (бренд шмотья)
                 </li>
                 <li>
-                    Порядок на грани с <a href="https://w.wiki/4e5r" target="_blank" rel="noreferrer">ОКР</a> и списки, списки, списки
+                    Сделано в СССР (конструктивизм, утилитарный дизайн, техника, вес предметов)
+                </li>
+                <li>
+                    Порядок на грани с ОКР и списки, списки, списки
                 </li>
             </ul>
         </div>
@@ -142,24 +142,27 @@ const AboutMePage = ({ data, location }) => {
                 <li>
                     Залипаю на армреслинг (ютуб канал <a href="https://www.youtube.com/channel/UC6eMRqZWwSBYS6IlVYD7dwQ" target="_blank" rel="noreferrer">ARMWRESLING TV</a>).
                 </li>
-            </ul>
-        </div> */}
-        
-        <div>
-            <h2>&#x26BD; Спортик</h2>
-            <ul>
                 <li>
-                    Катаюсь на аэро-ракете <a href="https://www.orbea.com/cz-en/bicycles/road/orca-aero/cat/orca-aero-m20ltd" target="_blank" rel="noreferrer">Orbea Orca Aero M20LTD</a>. 
-                    Моя <a href={social.strava} target="_blank" rel="noreferrer">Strava</a>.
+                    LEGO
                 </li>
                 <li>
                     Время от времени прохожу курс <a href="https://sektaschool.ru/" target="_blank" rel="noreferrer">Sekta</a>.
+                </li>
+            </ul>
+        </div> */}
+        
+        {/* <div>
+            <h2>&#x26BD; Спортик</h2>
+            <ul>
+                <li>
+                    Велик. Катаюсь на аэро-ракете <a href="https://www.orbea.com/cz-en/bicycles/road/orca-aero/cat/orca-aero-m20ltd" target="_blank" rel="noreferrer">Orbea Orca Aero M20LTD</a>. 
+                    Моя <a href={social.strava} target="_blank" rel="noreferrer">Strava</a>.
                 </li>
                 <li>
                     Когда-то на футбольчике прокидывал в очко только так.
                 </li>
             </ul>
-        </div>
+        </div> */}
         
         <div>
             <h2>&#x1F517; Ссылки</h2>
@@ -178,13 +181,18 @@ const AboutMePage = ({ data, location }) => {
                     </a>
                 </li>
                 <li>
-                    <a href={social.portfolio} target="_blank" rel="noreferrer">
-                        Портфолио
+                    <a href={social.movie_library} target="_blank" rel="noreferrer">
+                        Моя библиотека фильмов и сериалов
                     </a>
                 </li>
                 <li>
-                    <a href={social.movie_library} target="_blank" rel="noreferrer">
-                        Моя библиотека фильмов и сериалов
+                    <a href="https://roundnsquare.club/averin.vladislav" target="_blank" rel="noreferrer">
+                        Небольшая коллекция винила
+                    </a>
+                </li>
+                <li>
+                    <a href={social.portfolio} target="_blank" rel="noreferrer">
+                        Портфолио
                     </a>
                 </li>
             </ul>

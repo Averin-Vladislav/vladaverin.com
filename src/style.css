@@ -56,6 +56,7 @@
   --fontSize-7: 2.986rem;
   --color-primary: #A42601;
   --color-primary-light: #db6946;
+  --color-primary-lighter: #F8EEEB;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -91,6 +92,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background-color: var(--color-primary-lighter);
 }
 
 footer {

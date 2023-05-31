@@ -7,7 +7,7 @@
 
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import ProfilePic from "../images/profile-pic.png"
+import ProfilePic from "../images/profile-pic.jpg"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
