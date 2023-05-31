@@ -2,7 +2,7 @@
 title: Слепая курица в Словении
 date: "2023-04-01"
 description: "Не провалиться под снег в словенских горах."
-image: "https://drive.google.com/uc?id=1vWUX0j9ilkpbHMvMHSkI9dTj6iGE5Keo"
+image: "https://i.ibb.co/rZBzJtv/8-imresizer.jpg"
 alt: "Я держу Надю на спине на фоне гор"
 ---
 
@@ -15,91 +15,91 @@ alt: "Я держу Надю на спине на фоне гор"
 
 На фоне должна была быть видна вершина горы, на которую идем.
 
-<a href="https://drive.google.com/uc?id=1tj8TeT3dAz-QThm2-WNOKct6uddcYAX9" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1WiSYcwrINBMXpWPioCYkz1ZzlLvYsW0b" alt="Я, Надя, Андрей и Лизка обнимаемся и улыбаемся на фоне словенских гор" title="Я, Надя, Андрей и Лизка обнимаемся и улыбаемся на фоне словенских гор"/>
+<a href="https://i.ibb.co/k3YhZXC/1-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/VjmcLmJ/1-imresizer.jpg" alt="Я, Надя, Андрей и Лизка обнимаемся и улыбаемся на фоне словенских гор" title="Я, Надя, Андрей и Лизка обнимаемся и улыбаемся на фоне словенских гор"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=16ccJ3DABq3jAwspsB52kp1I3mCtzwPN0" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1FbAa2DvRBUA5xQgAEhoTT3UrJHLNH_ad" alt="Андрей и Лизка делают большое сердечко руками" title="Андрей и Лизка делают большое сердечко руками"/>
+<a href="https://i.ibb.co/BLW3nvt/3-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/5rHxk4m/3-imresizer.jpg" alt="Андрей и Лизка делают большое сердечко руками" title="Андрей и Лизка делают большое сердечко руками"/>
 </a>
 
 Хобана и как-то незаметно уже половину прошли. 
 
-<a href="https://drive.google.com/uc?id=1i2eBrOtM8qRSmTnHd4Tua3l76nogonnF" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1-R4H9Bqj0d-sVdYRSW05feYtVSVg4GRV" alt="Я и Надя обнимаемся и тяжело дышим в окружении леса" title="Я и Надя обнимаемся и тяжело дышим в окружении леса"/>
+<a href="https://i.ibb.co/ZH0qpJV/14-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/5YdLJmW/14-imresizer.jpg" alt="Я и Надя обнимаемся и тяжело дышим в окружении леса" title="Я и Надя обнимаемся и тяжело дышим в окружении леса"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=1IAgbWkryJ5cOSNteqJioCWomVddCw0Bf" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=15wv3EfAEVKsH2MMCmtGjkOMLEg8DFYc4" alt="Горы чуть видимые сквозь деревья на переднем плане" title="Горы чуть видимые сквозь деревья на переднем плане"/>
+<a href="https://i.ibb.co/7GgLP93/2-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/wgZ1b1F/2-imresizer.jpg" alt="Горы чуть видимые сквозь деревья на переднем плане" title="Горы чуть видимые сквозь деревья на переднем плане"/>
 </a>
 
 ## Перекур
 У меня за спиной кайфовый домик в лесу, где наливают чайка и кормят местным пирожком с черникой. Там нужно есть, греться, смеяться, и пописять.
 
-<a href="https://drive.google.com/uc?id=1I8hGufO3w-QJeUlvHDm9-KmRPFmhFxI4" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1SXNwg9jU0iMZbA947BormNyem8v0IUfS" alt="Я немного улыбаюсь, за мной снежный склон и горный домик для туристов" title="Я немного улыбаюсь, за мной снежный склон и горный домик для туристов"/>
+<a href="https://i.ibb.co/rfnTR2P/4-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/92TzGWC/4-imresizer.jpg" alt="Я немного улыбаюсь, за мной снежный склон и горный домик для туристов" title="Я немного улыбаюсь, за мной снежный склон и горный домик для туристов"/>
 </a>
 
 Ждем, когда уже принесут миску.
 
-<a href="https://drive.google.com/uc?id=1zqUymZTfzrjIY4YNjMH6M24BV5aYKUf2" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1SYuTVU6gcG_8Rr3RqzzdRTk4V7wXDcKv" alt="Андрей и Лизка вне фокуса объектива внутри домика для туристов сидят за столом" title="Андрей и Лизка вне фокуса объектива внутри домика для туристов сидят за столом"/>
+<a href="https://i.ibb.co/rk4Ncw4/10-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/ZSDzD1c/10-imresizer.jpg" alt="Андрей и Лизка вне фокуса объектива внутри домика для туристов сидят за столом" title="Андрей и Лизка вне фокуса объектива внутри домика для туристов сидят за столом"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=1_hwMdiUk-o8dzFWHoWjLQU84b23ALe7c" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1_8D3ejAEnZp6eppYU7xQ2aj4N_uaBSuG" alt="Надя за столом пьет чай внутри домика" title="Надя за столом пьет чай внутри домика"/>
+<a href="https://i.ibb.co/v1xZhV2/15-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/n89cK34/15-imresizer.jpg" alt="Надя за столом пьет чай внутри домика" title="Надя за столом пьет чай внутри домика"/>
 </a>
 
 ## Финишная прямая
 Слой снега местами довольно толстый и покрывает целые кусты и даже деревья до самых верхушек. Поэтому, если отшагнуть слишком далеко от протоптанной тропинки, можно сесть на кол и там остаться.
 
-<a href="https://drive.google.com/uc?id=1kUmMvnngsxF4J6oxWClBC9CsYZZaATEL" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1xYx56WhRuGj9jIZv7dV5YIjAcHAG9igK" alt="Снежные холмы с торчащими наружу верхушками деревьев" title="Снежные холмы с торчащими наружу верхушками деревьев"/>
+<a href="https://i.ibb.co/hLyfRBB/18-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/cvXyHhq/18-imresizer.jpg" alt="Снежные холмы с торчащими наружу верхушками деревьев" title="Снежные холмы с торчащими наружу верхушками деревьев"/>
 </a>
 
 У нас все обошлось и мы уже на финишной прямой. Стало очень красиво.
 
-<a href="https://drive.google.com/uc?id=1VyNMvB6U6Wk7eMRB5TsHQ4JguZAZbqTJ" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1rjBbGZSf5szPRfFjBlczGS5yhlhUxhEm" alt="Я, Андрей и Лизка стоим спиной к камере и смотрим на скалы вдали" title="Я, Андрей и Лизка стоим спиной к камере и смотрим на скалы вдали"/>
+<a href="https://i.ibb.co/fM2Q23r/5-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/51nFRHL/5-imresizer.jpg" alt="Я, Андрей и Лизка стоим спиной к камере и смотрим на скалы вдали" title="Я, Андрей и Лизка стоим спиной к камере и смотрим на скалы вдали"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=19bqJOEQdvkHCgebPTc9z8EpcqsCEo_N6" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1XfGAKdj1zaC0s9RsSPaxpgTUMxEa6aIn" alt="Андрей и Лизка кривляются пока я порчу кадр своим лицом сбоку" title="Андрей и Лизка кривляются пока я порчу кадр своим лицом сбоку"/>
+<a href="https://i.ibb.co/NxbHQRX/7-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/4R1TnDT/7-imresizer.jpg" alt="Андрей и Лизка кривляются пока я порчу кадр своим лицом сбоку" title="Андрей и Лизка кривляются пока я порчу кадр своим лицом сбоку"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=11iaP2ZF-Lr-95dyasRH6pztjDqYIoxI3" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1vWUX0j9ilkpbHMvMHSkI9dTj6iGE5Keo" alt="Я держу Надю на спине на фоне гор" title="Я держу Надю на спине на фоне гор"/>
+<a href="https://i.ibb.co/m0brmjX/8-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/rZBzJtv/8-imresizer.jpg" alt="Я держу Надю на спине на фоне гор" title="Я держу Надю на спине на фоне гор"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=1V-D-NmPZq3YxUb4q23CWQQy41O8_-dEo" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=11hUH8p1mTjOf2kRzIHyk807c0tR7lAwo" alt="Надя повисла на мне всем делом, стоим оба согнувшись" title="Надя повисла на мне всем делом, стоим оба согнувшись"/>
+<a href="https://i.ibb.co/cX3KBNM/9-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/ynVhWN1/9-imresizer.jpg" alt="Надя повисла на мне всем делом, стоим оба согнувшись" title="Надя повисла на мне всем делом, стоим оба согнувшись"/>
 </a>
 
-<a href="https://drive.google.com/uc?id=1C-ZnzfC9RQExYFOYI_6Ye4cQjad2L9U4" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1cuE1QUJRHozw6y1Kt2OIGDHzf0Xyd-W2" alt="Андрей стоя спиной показывает что-то пальцем в направлении горного ущелья" title="Андрей стоя спиной показывает что-то пальцем в направлении горного ущелья"/>
+<a href="https://i.ibb.co/Q9p0MSJ/13-min.png" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/HG4Wbq9/13-imresizer.jpg" alt="Андрей стоя спиной показывает что-то пальцем в направлении горного ущелья" title="Андрей стоя спиной показывает что-то пальцем в направлении горного ущелья"/>
 </a>
 
 Последние метры только на пирожке уже дошли.
 
-<a href="https://drive.google.com/uc?id=1ce-E1q29jHUpdBGb52i4n7G2potErAWz" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1uHKuE9qUoBE521rYdbng7naN-4QgAwpC" alt="Надя задумчиво оперелась лбом о треккинговые палки" title="Надя задумчиво оперелась лбом о треккинговые палки"/>
+<a href="https://i.ibb.co/X79tDjc/12-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/w0C08gp/12-imresizer.jpg" alt="Надя задумчиво оперелась лбом о треккинговые палки" title="Надя задумчиво оперелась лбом о треккинговые палки"/>
 </a>
 
 Записались в горный журнальчик, что мы тут правда были.
 
-<a href="https://drive.google.com/uc?id=1Y2PG-3Ihx4jYYme25-EkaiFlDmN8hdls" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1Y2PG-3Ihx4jYYme25-EkaiFlDmN8hdls" alt="Надя на вершине горы пишет в журнал наши имена" title="Надя на вершине горы пишет в журнал наши имена"/>
+<a href="https://i.ibb.co/Phc2y9d/16-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/Phc2y9d/16-min.jpg" alt="Надя на вершине горы пишет в журнал наши имена" title="Надя на вершине горы пишет в журнал наши имена"/>
 </a>
 
 Один из немногих людей, которых мы встретили, был чел на вершине на лыжах с парашютом. Пока мы делали запись в журнал, он чуть не суициднулся на каком-то кусте пролетев метров 30.
 
-<a href="https://drive.google.com/uc?id=1iepenM-9EOByLT4iJ9dUZZX9vMJziu8b" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1h4aT6SXZVheFnGHg3MEVHpQB6B-F3y92" alt="Парень с лыжами на парашюте пикирует над горным склоном" title="Парень с лыжами на парашюте пикирует над горным склоном"/>
+<a href="https://i.ibb.co/g4h5VXz/11-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/2ZT3gd5/11-imresizer.jpg" alt="Парень с лыжами на парашюте пикирует над горным склоном" title="Парень с лыжами на парашюте пикирует над горным склоном"/>
 </a>
 
 ## Главный повод собраться
 Конечно же, самое главное ради чего мы все собрались, были не словенские горы, а <a href="https://pikabu.ru/story/slepaya_kuritsa_2347626" target="_blank" rel="norferrer">слепая курица</a>. Правила этой игры очень простые: заправляешь местное пиво в пузо, носок на голову и вперед.
 
-<a href="https://drive.google.com/uc?id=1yHuVmuOvsy3N0dc6-l_9hCSO-VVZZYYE" target="_blank" rel="norferrer">
-    <img src="https://drive.google.com/uc?id=1yHuVmuOvsy3N0dc6-l_9hCSO-VVZZYYE" alt="Андрей смеется и убегает от слепой курицы" title="Андрей смеется и убегает от слепой курицы"/>
+<a href="https://i.ibb.co/6smQ3CR/17-min.jpg" target="_blank" rel="norferrer">
+    <img src="https://i.ibb.co/6smQ3CR/17-min.jpg" alt="Андрей смеется и убегает от слепой курицы" title="Андрей смеется и убегает от слепой курицы"/>
 </a>
