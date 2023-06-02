@@ -1,6 +1,6 @@
 ---
 title: Юшка №2
-date: "2022-11-09"
+date: "2022-11"
 description: "Тут все люди улыбаются и про велики немного."
 image: "https://i.ibb.co/MDtd9J4/7-imresizer.jpg"
 alt: "Я и Надя улыбаемся пока едим суши"

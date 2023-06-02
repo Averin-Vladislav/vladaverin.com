@@ -1,6 +1,6 @@
 ---
 title: Юшка №3
-date: "2023-01-13"
+date: "2023-01"
 description: "Гараж в стиле пленизма и Новый год."
 image: "https://i.ibb.co/ggXXGYv/3-Im-Resizer.jpg"
 alt: "Машина в гараже, где висит плакат с голой женщиной"
