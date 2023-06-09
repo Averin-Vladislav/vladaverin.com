@@ -47,15 +47,15 @@ const AboutMePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-        <Seo title="Много обо мне" />
+        <Seo title="Обо мне" />
         
-        <h1 className="about-me-heading">Много обо мне</h1>
+        <h1 className="about-me-heading">Обо мне</h1>
         <span className="about-me-update">Обновлено 31 мая 2023</span>
         <img className="about-me-img" src="https://i.ibb.co/JxjbZ2c/about-me.jpg" alt="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов" title="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов"/>
 
         <div>
             <h2>&#x1F44B; Халоу</h2>
-            <p>Мне 26 лет. Отучился на программиста в Минске, но всегда был про дизайн, визуал и восприятие.
+            <p>Я Влад Аверин. Мне 26 лет. Отучился на программиста, но всегда был про дизайн, визуал и восприятие.
                 Неплохо шпарю по-английски, чего-то могу выдавить по-чешски
                 и кайфую от немецкого. Под боком всегда любимая Мышка и кот.</p>
         </div>
