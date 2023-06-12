@@ -5,7 +5,7 @@ module.exports = {
       name: `Влад Аверин`,
       summary: `Фото истории про меня`,
     },
-    description: `Photo narratives from Vlad Averin's life`,
+    description: `Меня зовут Влад Аверин. Здесь я рассказываю про то, что мне интересно, чтоб было что вспомнить в старости.`,
     siteUrl: `https://with.vladaverin.com/`,
     previewThumbnail: `https://drive.google.com/uc?id=1TbdHUBxCT1rLvHo5YDhUPM20mtbpQrJL`,
     weatherAPI: `https://api.weatherapi.com/v1/current.json?key=5ff19fd9b90844bc941140900220601&q=Prague&aqi=no`,

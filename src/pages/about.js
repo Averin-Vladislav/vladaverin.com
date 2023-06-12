@@ -50,22 +50,21 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="Обо мне" />
         
         <h1 className="about-me-heading">Обо мне</h1>
-        <span className="about-me-update">Обновлено 31 мая 2023</span>
+        <span className="about-me-update">Обновлено 12 июня 2023</span>
         <img className="about-me-img" src="https://i.ibb.co/JxjbZ2c/about-me.jpg" alt="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов" title="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов"/>
 
         <div>
             <h2>&#x1F44B; Халоу</h2>
-            <p>Я Влад Аверин. Мне 26 лет. Отучился на программиста, но всегда был про дизайн, визуал и восприятие.
-                Неплохо шпарю по-английски, чего-то могу выдавить по-чешски
-                и кайфую от немецкого. Под боком всегда любимая Мышка и кот.</p>
+            <p>Я Влад Аверин. Мне 26 лет. Отучился на программиста, но всегда был про визуал и восприятие.
+                 Под боком всегда любимая мышка Надя и кот Оливер.</p>
         </div>
            
         <div>
             <h2>&#x1F4CD; Локация</h2>
             <p>Детство в Барановичах → отрочество в Минске → юность в Праге. Живу в афигенном
                 районе <a href="https://goo.gl/maps/ZCYXQvAJDVc5Pxjq9" target="_blank" rel="noreferrer">Velká Chuchle</a>: 
-                деревенские вайбы, кони с козами пасутся, ипподром рядом, местная пожарная станция с одной машиной,
-                топовый вид из окна, и такое ощущение, что все здесь друг друга знают. {temperatureInfo}</p>
+                деревенские вайбы, кони с козами, ипподром, пожарная станция с одной машиной,
+                топовый вид из окна, и все здесь друг друга знают. {temperatureInfo}</p>
         </div>
 
         <div>
@@ -100,7 +99,7 @@ const AboutMePage = ({ data, location }) => {
                     BMW (пилот 425d F36 2016)
                 </li>
                 <li>
-                    Uniqlo (бренд шмотья)
+                    Uniqlo и Stone Island
                 </li>
                 <li>
                     Сделано в СССР (конструктивизм, утилитарный дизайн, техника, вес предметов)
@@ -159,10 +158,10 @@ const AboutMePage = ({ data, location }) => {
         
         <div>
             <h2>&#x1F4BB; Откуда бабки</h2>
-            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>,
+            <p>Я дизайнер в <a href="https://www.pandadoc.com/" target="_blank" rel="noreferrer">PandaDoc</a>. Я 
             отвечаю за <a href="https://w.wiki/4e9e" target="_blank" rel="noreferrer">дизайн систему</a>, 
             которая называется <a href="https://thesis.pandadoc.com/" target="_blank" rel="noreferrer">Thesis</a>. 
-            В работе ценю порядок, здравый смысл и адекватных людей.</p>
+            В работе ценю порядок, здравый смысл, адекватных людей и когда отвечают за базар в общем.</p>
         </div>
 
         <div>
