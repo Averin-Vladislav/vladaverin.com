@@ -50,12 +50,12 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="Обо мне" />
         
         <h1 className="about-me-heading">Обо мне</h1>
-        <span className="about-me-update">Обновлено 12 июня 2023</span>
+        <span className="about-me-update">Обновлено 8 октября 2023</span>
         <img className="about-me-img" src="https://i.ibb.co/JxjbZ2c/about-me.jpg" alt="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов" title="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов"/>
 
         <div>
             <h2>&#x1F44B; Халоу</h2>
-            <p>Я Влад Аверин. Мне 26 лет. Отучился на программиста, но всегда был про визуал и восприятие.
+            <p>Я Влад Аверин. Мне 27 лет. Отучился на программиста, но всегда был про визуал и восприятие.
                  Под боком всегда любимая мышка Надя и кот Оливер.</p>
         </div>
            
@@ -75,13 +75,7 @@ const AboutMePage = ({ data, location }) => {
                     Моя <a href={social.strava} target="_blank" rel="noreferrer">Strava</a>.
                 </li>
                 <li>
-                    Дизайн
-                </li>
-                <li>
-                    Оружие и всякое тактическоe
-                </li>
-                <li>
-                    Наруто
+                    Оружие и всякое тактическоe. Под подушкой <a href="https://www.sigsauer.com/p226-mk25-full-size.html" target="_blank" rel="noreferrer">Sig Sauer P226 MK25</a>.
                 </li>
                 <li>
                     Топлю за лондонский Арсенал
@@ -90,13 +84,16 @@ const AboutMePage = ({ data, location }) => {
                     Фоткаю на пленку (Зенит TTL + Юпитер 37А / Гелиос-44М)
                 </li>
                 <li>
-                    Сырный борт в Papa Johns
+                    BMW (пилотирую 425d F36 2016)
+                </li>
+                <li>
+                    Наруто
                 </li>
                 <li>
                     Звездные войны
                 </li>
                 <li>
-                    BMW (пилот 425d F36 2016)
+                    Сырный борт в Papa Johns
                 </li>
                 <li>
                     Uniqlo и Stone Island
@@ -113,6 +110,9 @@ const AboutMePage = ({ data, location }) => {
         {/* <div>
             <h2>&#x1F480; Мертвые увлечения</h2>
             <ul>
+                <li>
+                    Дизайн
+                </li>
                 <li>
                     Фингерборд
                 </li>
@@ -172,17 +172,12 @@ const AboutMePage = ({ data, location }) => {
                         Телеграм
                     </a> (+ 
                     <a href="https://t.me/addstickers/nemnozko_oreshkov" target="_blank" rel="noreferrer">
-                        мой стикерпак
+                        лучший стикерпак на свете
                     </a>)
                 </li>
                 <li>
-                    <a href={`https://instagram.com/${social?.instagram || ``}`} target="_blank" rel="noreferrer">
-                        Инстаграм
-                    </a>
-                </li>
-                <li>
                     <a href={social.movie_library} target="_blank" rel="noreferrer">
-                        Моя библиотека фильмов и сериалов
+                        Библиотека фильмов и сериалов
                     </a>
                 </li>
                 <li>
