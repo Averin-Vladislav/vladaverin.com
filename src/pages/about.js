@@ -50,7 +50,7 @@ const AboutMePage = ({ data, location }) => {
         <Seo title="Обо мне" />
         
         <h1 className="about-me-heading">Обо мне</h1>
-        <span className="about-me-update">Обновлено 8 октября 2023</span>
+        <span className="about-me-update">Обновлено 27 октября 2023</span>
         <img className="about-me-img" src="https://i.ibb.co/JxjbZ2c/about-me.jpg" alt="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов" title="Я стою на деревянном мосту улыбаюсь на фоне лесных холмов"/>
 
         <div>
@@ -71,7 +71,7 @@ const AboutMePage = ({ data, location }) => {
             <h2>&#x2764; От чего кайфую</h2>
             <ul>
                 <li>
-                    Велик. Катаюсь на аэро-ракете <a href="https://www.orbea.com/cz-en/bicycles/road/orca-aero/cat/orca-aero-m20ltd" target="_blank" rel="noreferrer">Orbea Orca Aero M20LTD</a>. 
+                    Велик. Катаюсь на аэро-ракете <a href="https://99spokes.com/en-EU/bikes/orbea/2022/orca-aero-m20ltd" target="_blank" rel="noreferrer">Orbea Orca Aero M20LTD</a>. 
                     Моя <a href={social.strava} target="_blank" rel="noreferrer">Strava</a>.
                 </li>
                 <li>
